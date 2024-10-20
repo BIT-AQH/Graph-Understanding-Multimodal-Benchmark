@@ -8,10 +8,20 @@ The paper has been accepted by the ACL 2024 main conference. This is the officia
 
 ```
 Graph-Understanding-Multimodal-Benchmark/
-├── instructions/
-│   ├── train.jsonl         # All instructions used in training (include English and Chinese)
-│   ├── train_en.jsonl       # English instructions corresponding to English images
-│   └── train_zh.jsonl       # Chinese instructions corresponding to Chinese images
+├── eval/
+│   ├── eval.jsonl         # All instructions with groudtruth used in evaluation 
+│   ├── gemini.jsonl       # All evaluation instructions with answers from Gemini
+│   └── gpt-4v.jsonl       # All evaluation instructions with answers from GPT-4V
+|
+├── test/
+│   ├── test.jsonl         # All instructions used in test (both English and Chinese)
+│   ├── test_en.jsonl       # English testing instructions
+│   └── test_zh.jsonl       # Chinese testing instructions
+|
+├── train/
+│   ├── train.jsonl         # All instructions used in training (both English and Chinese)
+│   ├── train_en.jsonl       # English training instructions
+│   └── train_zh.jsonl       # Chinese training instructions
 └── README.md
 ```
 
@@ -21,7 +31,14 @@ Images are available here : [Google Drive Link](https://drive.google.com/drive/f
 
 By fine-tuning MiniGPT-4 and LLaVA on our dataset, we achieved an accuracy increase of 5%-15% compared to baseline models, with the best-performing model attaining scores comparable to Gemini in GPT-assisted Evaluation. The experiment and results are detailed in our paper.
 
-## Paper
+## Paper and Citation
 
 If the data is helpful for your project, please cite our paper (Bibtex below).
-TO BE FINISHED.
+```bibtex
+@inproceedings{ai2024advancement,
+  title={Advancement in Graph Understanding: A Multimodal Benchmark and Fine-Tuning of Vision-Language Models},
+  author={Ai, Qihang and Li, Jiafan and Dai, Jincheng and Zhou, Jianwu and Liu, Lemao and Jiang, Haiyun and Shi, Shuming},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={7485--7501},
+  year={2024}
+}
