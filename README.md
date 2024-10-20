@@ -9,9 +9,9 @@ The paper has been accepted by the ACL 2024 main conference. This is the officia
 ```
 Graph-Understanding-Multimodal-Benchmark/
 ├── eval/
-│   ├── eval.jsonl         # All instructions with groudtruth used in evaluation 
-│   ├── gemini.jsonl       # All evaluation instructions with answers from Gemini
-│   └── gpt-4v.jsonl       # All evaluation instructions with answers from GPT-4V
+│   ├── baseline_eval/      # Results of LLaVA, Minigpt4, Gemini and GPT-4V
+│   ├── llava_eval/         # Results of fine tuned LLaVA 
+│   └── mini_eval/          # Results of fine tuned Minigpt4
 |
 ├── test/
 │   ├── test.jsonl         # All instructions used in test (both English and Chinese)
@@ -25,7 +25,7 @@ Graph-Understanding-Multimodal-Benchmark/
 └── README.md
 ```
 
-Images are available here : [Google Drive Link](https://drive.google.com/drive/folders/1YGersVhKBixAp3dq0SBwHDOG8I6mvowE?usp=sharing)
+Images are available here : [Google Drive Link](https://drive.google.com/drive/folders/1fcIHuCMGAU8tboMXDqetXrP0WkQAxerp?usp=sharing)
 
 ## Model
 

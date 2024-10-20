@@ -1,0 +1,1708 @@
+[
+  [
+    {
+      "image": "kg_image181.jpg",
+      "User": "Who is the presenter at DSAA 2016 according to the graph?",
+      "MiniGPT-4-ce_epoch3": "according to the graph, the presenter at DSAA 2016 is jason alexander"
+    },
+    {
+      "image": "kg_image181.jpg",
+      "User": "Which city is associated with the province of Quebec in this graph?",
+      "MiniGPT-4-ce_epoch3": "​"
+    },
+    {
+      "image": "kg_image181.jpg",
+      "User": "Can you trace a path from Khalifeh AlJadda to Canada and describe the relationship between the nodes along the path?",
+      "MiniGPT-4-ce_epoch3": "1 from khalifeh aljadda to canada, the relationship is that he is the creator or author of the image content."
+    }
+  ],
+  [
+    {
+      "image": "kg_image236.jpg",
+      "User": "What types of databases are represented by the green nodes labeled \"Neo4j core1\", \"Neo4j core2\", and \"Neo4j core3\"?",
+      "MiniGPT-4-ce_epoch3": "1. The green node labeled \"Neo4j core1\" likely represents a database instance of the neo4j graph database engine, specifically designed for use with their cypher query language and supporting graph-oriented data modeling.2. The green node labeled \"Neo4j core2\" represents a database instance of neo4j with additional features, such as a more robust data management system or improved performance characteristics.3. The green node labeled \"Neo4j core3\" likely represents a more advanced database instance of neo4j, with a focus on scalability and support for running in high-traffic or mission-critical environments."
+    },
+    {
+      "image": "kg_image236.jpg",
+      "User": "How do the applications Slack, Google Drive, Salesforce, and GitHub interface with the Python application according to the diagram?",
+      "MiniGPT-4-ce_epoch3": "1. Slack and Google Drive can be accessed through their respective APIs and SDKs for Python, which are connected to the Python application. 2. Salesforce can also be accessed through its API and SDK for Python, which is connected to the Python application. 3. GitHub can be accessed through its API, which is connected to the Python application."
+    }
+  ],
+  [
+    {
+      "image": "kg_image231.jpg",
+      "User": "Who painted the Mona Lisa?",
+      "MiniGPT-4-ce_epoch3": "Michelangelo Buonarroti, an Italian Renaissance painter, is known for painting the Mona Lisa"
+    },
+    {
+      "image": "kg_image231.jpg",
+      "User": "What is the relationship between James and the Mona Lisa according to the image?",
+      "MiniGPT-4-ce_epoch3": "1. Lily is connected to the Louvre by a sequence of relationships that include her being a patron of the Louvre, which is linked to her being the owner of the famous Mona Lisa painting, and Mona Lisa painting's association with the Louvre museum in Paris, France"
+    }
+  ],
+  [
+    {
+      "image": "kg_image219.jpg",
+      "User": "What property do cracked tiles have according to the image?",
+      "MiniGPT-4-ce_epoch3": "According to the image, cracked tiles have a mode of capability, specifically the cutting capability 'Cutting' is present, but not cutting itself, as shown by the broken edge"
+    },
+    {
+      "image": "kg_image219.jpg",
+      "User": "How are the concepts of \"cutting\" and \"tile\" related in this image?",
+      "MiniGPT-4-ce_epoch3": "​#Img> the concepts of cutting and tile are not related in this image"
+    },
+    {
+      "image": "kg_image219.jpg",
+      "User": "Can you explain the relationship between cracked tiles and the potential risk they pose as depicted in the image?",
+      "MiniGPT-4-ce_epoch3": "The image shows that cracked tiles are a condition that can cause a risk of falling. Specifically, the relationship between cracked tiles and the potential risk they pose is represented by the arrow pointing from cracked tiles to falling tile"
+    }
+  ],
+  [
+    {
+      "image": "kg_image206.jpg",
+      "User": "What product is associated with Tesla in this knowledge graph?",
+      "MiniGPT-4-ce_epoch3": "Isabelle Adjani is related to Paris in this knowledge graph by having a connection with the city of paris"
+    },
+    {
+      "image": "kg_image206.jpg",
+      "User": "How is Isabelle Adjani related to Paris in this knowledge graph?",
+      "MiniGPT-4-ce_epoch3": "1. Fremont, California is the home of Tesla's factory where electric cars are manufactured, indicating that Tesla has a significant presence in this location"
+    }
+  ],
+  [
+    {
+      "image": "kg_image80.jpg",
+      "User": "What relation does Al have with Party X?",
+      "MiniGPT-4-ce_epoch3": "3/14/2015 4:42:42 PM Al has a visually-defined role in Party X"
+    },
+    {
+      "image": "kg_image80.jpg",
+      "User": "Is there a direct relationship between Bill and Lyndon shown in the graph?",
+      "MiniGPT-4-ce_epoch3": "​​No, there is no direct relationship between Bill and Lyndon shown in the graph."
+    },
+    {
+      "image": "kg_image80.jpg",
+      "User": "If Bill and John are both part of Party X and have both held the position of vice president within it, and considering the red dashed line indicates an unknown relationship, can we infer what the red dashed line might represent based on the pattern of relationships shown in the graph?",
+      "MiniGPT-4-ce_epoch3": "​"
+    }
+  ],
+  [
+    {
+      "image": "kg_image52.jpg",
+      "User": "What does the Plugin Consumer use according to the diagram?",
+      "MiniGPT-4-ce_epoch3": "​"
+    },
+    {
+      "image": "kg_image52.jpg",
+      "User": "How are Plugin Instances related to the Plugin API according to the diagram?",
+      "MiniGPT-4-ce_epoch3": "1. Plugin Instances can be created through the Plugin API 2. Once an instance is created, it can be passed to a new instance by calling the instance method pass 3. A plugin instance can call another instance's functions by calling them directly or by inheriting from that instance and then calling its functions through the inheritance hierarchy 4. An instance can have plugins added to it through calls to the addPlugin method on the instance"
+    },
+    {
+      "image": "kg_image52.jpg",
+      "User": "If a Plugin Consumer needs to use a specific functionality provided by a plugin, what is the sequence of interactions that must occur according to the diagram, starting from the Plugin Consumer and ending with the Plugin Instance?",
+      "MiniGPT-4-ce_epoch3": "1. The Plugin Consumer, which has already instantiated the Plugin class, requests access to a specific functionality from the Plugin Instance by calling the getName() method, which returns a String value representing the name of the plugin instance"
+    }
+  ],
+  [
+    {
+      "image": "kg_image19.jpg",
+      "User": "What is the central element in the image?",
+      "MiniGPT-4-ce_epoch3": "​# 471926403"
+    },
+    {
+      "image": "kg_image19.jpg",
+      "User": "Which pathway is associated with 'Cyclin B' in the image?",
+      "MiniGPT-4-ce_epoch3": "1 pathway associated with 'Cyclin B' is cyclin-dependent kinase (cdk)"
+    },
+    {
+      "image": "kg_image19.jpg",
+      "User": "Considering the pathways and molecules shown in the image, how might Rutin influence cancer-related mechanisms through a multi-hop interaction, starting with the 'Drug transporters' node?",
+      "MiniGPT-4-ce_epoch3": "1. Rutin could be transported into cancer cells by the drug transporter node, such as P-gp, resulting in upregulation of cellular efflux pumps and decrease in intracellular levels of rutin. This could lead to reduced bioavailability of rutin within the cancer cells, leading to a decrease in its antioxidant activity and potentially enhancing oxidative stress in cancer cells."
+    }
+  ],
+  [
+    {
+      "image": "kg_image21.jpg",
+      "User": "What is the initial state of a job in this diagram?",
+      "MiniGPT-4-ce_epoch3": "1. Released - when a job is finished and all necessary steps have been completed in the \"Deploying\" state"
+    },
+    {
+      "image": "kg_image21.jpg",
+      "User": "What are the possible states that a job can transition to after being in the \"Deploying\" state?",
+      "MiniGPT-4-ce_epoch3": "1. The job moves to the \"Terminated\" state, indicating a termination event has occurred. 2. The job is not running, indicating it has been terminated. 3. A new job starts, meaning that a new instance of the job has been started."
+    }
+  ],
+  [
+    {
+      "image": "kg_image159.jpg",
+      "User": "What is the central node in this image?",
+      "MiniGPT-4-ce_epoch3": "45, general discipline"
+    },
+    {
+      "image": "kg_image159.jpg",
+      "User": "Which node is directly connected to the \"Database of verbs\" and categorizes verbs based on their syntactic properties?",
+      "MiniGPT-4-ce_epoch3": "1, 2, 5, 6, and 8 are directly connected to the \"Database of verbs\""
+    },
+    {
+      "image": "kg_image159.jpg",
+      "User": "How might the \"Database of pronouns\" be structurally categorized within this knowledge graph, and what specific types of pronouns are mentioned?",
+      "MiniGPT-4-ce_epoch3": "1. The database of pronouns is categorized into two main parts, gender and number, with the subcategories being masculine, feminine, neutral, singular, and plural"
+    }
+  ],
+  [
+    {
+      "image": "routemap_image67.jpg",
+      "User": "What is the final destination on this route map heading northeast?",
+      "MiniGPT-4-ce_epoch3": "The final destination on this route map heading northeast is the city of santa cruz"
+    },
+    {
+      "image": "routemap_image67.jpg",
+      "User": "Which stations on this map are indicated as transfer stations?",
+      "MiniGPT-4-ce_epoch3": "1"
+    },
+    {
+      "image": "routemap_image67.jpg",
+      "User": "If a passenger is at the Berkeley station and wants to travel to a station where they can transfer to BART, which station should they travel to and why?",
+      "MiniGPT-4-ce_epoch3": "If a passenger at the Berkeley station wants to travel to a station where they can transfer to BART, they should travel to the downtown Oakland station. This is because the downtown Oakland station has a direct transfer to the 12th street BART station, which is not connected to any other stops along this route through Santa Clara County"
+    }
+  ],
+  [
+    {
+      "image": "routemap_image301.jpg",
+      "User": "What is located at 177A Bleecker Street according to this map?",
+      "MiniGPT-4-ce_epoch3": "177A Bleecker Street is listed in the neigborhood section as a destination within the neighborhood"
+    },
+    {
+      "image": "routemap_image301.jpg",
+      "User": "Which two locations are connected by the edge labeled \"Massive Dynamic\"?",
+      "MiniGPT-4-ce_epoch3": "1) Greenwich Village"
+    },
+    {
+      "image": "routemap_image301.jpg",
+      "User": "Based on the thematic connections in this map, how is New York City portrayed and how does this reflect on the city's cultural significance in popular media?",
+      "MiniGPT-4-ce_epoch3": "1."
+    }
+  ],
+  [
+    {
+      "image": "routemap_image108.jpg",
+      "User": "What is the number of the stop located at Edinburgh Castle?",
+      "MiniGPT-4-ce_epoch3": "4"
+    },
+    {
+      "image": "routemap_image108.jpg",
+      "User": "Which tour routes are available from the stop at St. Andrew Square?",
+      "MiniGPT-4-ce_epoch3": "The stop at St. Andrew Square is served by the following tour routes:"
+    },
+    {
+      "image": "routemap_image108.jpg",
+      "User": "If I start at the Edinburgh Bus Tours Hub and want to visit the Scottish National Gallery, which stops would I encounter along the way, and in what order?",
+      "MiniGPT-4-ce_epoch3": "1 If you start at the Edinburgh Bus Tours Hub, heading north towards the Scottish National Gallery, you would first encounter stop C3, which is in front of 76 High Street. This is where you can board the buses that go to the Gallery's entrance."
+    }
+  ],
+  [
+    {
+      "image": "routemap_image66.jpg",
+      "User": "How many stations are there on Corridor-1 of the Pune Metro Rail Project?",
+      "MiniGPT-4-ce_epoch3": "27 stations are located along Corridor-1 of the Pune Metro Rail Project."
+    },
+    {
+      "image": "routemap_image66.jpg",
+      "User": "What is the total length of Corridor-2, and how many of these are elevated stations?",
+      "MiniGPT-4-ce_epoch3": "The total length of Corridor-2 in the map is 21 km out of which 12 km are elevated stations, including 8 stations at Mumbai, Thane, and Nagothane"
+    },
+    {
+      "image": "routemap_image66.jpg",
+      "User": "Considering the map, what is the significance of the Range Hill Depot and Vanaz Depot in the context of the Pune Metro Rail Project?",
+      "MiniGPT-4-ce_epoch3": "The Range Hill Depot is significant as it represents a major maintenance and repair center for the metro rail system. It is likely that trains will travel to and from this depot for routine maintenance, repairs, and upgrades, ensuring that the entire system is functioning efficiently and effectively."
+    }
+  ],
+  [
+    {
+      "image": "routemap_image203.jpg",
+      "User": "What is the starting point of Amelia Earhart's last flight as shown on this map?",
+      "MiniGPT-4-ce_epoch3": "The starting point of Amelia Earhart's last flight as shown on this map is Honolulu, Hawaii."
+    },
+    {
+      "image": "routemap_image203.jpg",
+      "User": "Which two cities did Amelia Earhart fly between after leaving Karachi?",
+      "MiniGPT-4-ce_epoch3": "1937 flight between Karachi, India and London"
+    },
+    {
+      "image": "routemap_image203.jpg",
+      "User": "Based on the flight path shown in the image, what can be inferred about the direction of travel as Amelia Earhart approached the final stages of her last flight?",
+      "MiniGPT-4-ce_epoch3": "1. From the image, it is clear that Amelia Earhart's last flight was westward, as indicated by the direction of the red route on the map. The route from Lae, New Guinea to Howland Island, which is the last known position of her plane, shows a path that is approximately due south of the equator and the longitude of Howland Island. The direction of travel is also indicated by the relative positioning of other landmasses along the route, which are located to the east of Howland Island."
+    }
+  ],
+  [
+    {
+      "image": "routemap_image374.jpg",
+      "User": "What is the name of the roller coaster located near the top left corner of the image?",
+      "MiniGPT-4-ce_epoch3": "The roller coaster located near the top left corner of the image is called bobsled coaster"
+    },
+    {
+      "image": "routemap_image374.jpg",
+      "User": "Can you identify a water-based attraction in the image?",
+      "MiniGPT-4-ce_epoch3": "Yes, there is a water-based attraction in the image, labeled as the lazy river"
+    },
+    {
+      "image": "routemap_image374.jpg",
+      "User": "Is there a thematic area in the park dedicated to prehistoric themes, and if so, what are some of the attractions found there?",
+      "MiniGPT-4-ce_epoch3": "25°C. The park also features a variety of interactive and immersive attractions, such as the Jurassic Park River Adventure, where visitors can experience an adventure through time with dinosaurs; the Land of the Brave Adventure, featuring attractions inspired by brave stories from around the world; and the Flying Riders, where riders can experience an adventurous and thrilling flight across the park on a zipline."
+    }
+  ],
+  [
+    {
+      "image": "routemap_image166.jpg",
+      "User": "Which line should I take to travel directly from Tokyo to Narita Airport?",
+      "MiniGPT-4-ce_epoch3": "From Tokyo to Narita Airport, you should take the JR East Yamanote Line from Tokyo Station, transferring to the JR East Chūō-Sōbu Line at Ueno Station, and finally boarding the JR East Narita Express at Shin-Yokohama Station. The Narita Express will take you directly to Narita Airport."
+    },
+    {
+      "image": "routemap_image166.jpg",
+      "User": "If I am at Shinjuku Station and want to go to Haneda Airport, which stations will I pass through if I take the most direct route on the map?",
+      "MiniGPT-4-ce_epoch3": "1. Shinjuku Station 2. Otemachi Station 3. Tokyo Station 4. Ueno Station 5. Nippori Station 6. Asakusa Station 7. Oshiage Station 8. Ikegami Station 9. Tsudanuma Station 10.Tsushima Station 11. Hamamatsu Station 12. Okayama Station 13.Himeji Station 14. Kobe Station 15. Sannomiya Station 16. Osaka Station 17. Suma Beach Station 18. Sakuragicho Station 19. Umeda Station 20. Kyobashi Station 21. Maedai Station 22. Shin-Maeda Station 23. Tengukue Station 24. Higashiyama Station 25. Kyoto Station 26. Sasago Station 27. Kamikitagawa Station 28. Otsu Station 29. Ogaki Station 30. Tsuge Station 31. Hokusei Station 32. Nanba Station 33. Kyogoku Station 34. Sanjo Station 35. Ono Station 36. Umenoyama Station 37. Nakayama Station 38. Tsuruga Station"
+    },
+    {
+      "image": "routemap_image166.jpg",
+      "User": "I am at Ueno Station and want to visit both the Tokyo Skytree and the Naritasan Shinshoji Temple. Can you suggest a route using this map that will take me to both locations, and which lines I will use?",
+      "MiniGPT-4-ce_epoch3": "1. From Ueno Station, you can transfer to the JR Yamanote Line at the nearby Okachimachi station, or stay on the Marunouchi Line for a direct ride to Tokyo Central Station, then transfer to the subway at Tochibashi Station (B2) to take the Toei Asakusa Line, which will take you to the Fukutoshin Line, where you can transfer to the Asakusa Station that serves both the Tokyo Skytree and Naritasan Shinshoji Temple."
+    }
+  ],
+  [
+    {
+      "image": "routemap_image114.jpg",
+      "User": "What color is the route marked with the number 25?",
+      "MiniGPT-4-ce_epoch3": "Yes, there are several camping sites indicated near the route marked with the number 38 on the map, including the red dot camp site located to the northwest of the number 38, and the blue dot camp site located to the northeast of the number 38. There is also a yellow dot car park located on the same route as the number 38, which could potentially be used for"
+    },
+    {
+      "image": "routemap_image114.jpg",
+      "User": "Are there any camping sites indicated near the route marked with the number 38?",
+      "MiniGPT-4-ce_epoch3": "It is not possible to provide an accurate answer as there is no indication of the recreational activities supported in this area based on the image provided. The image only shows a map with different symbols representing different features such as hiking trails, water sources, and points of interest. Without additional context or information, it is not possible to determine"
+    }
+  ],
+  [
+    {
+      "image": "routemap_image134.jpg",
+      "User": "What is the starting point of the route shown in the image?",
+      "MiniGPT-4-ce_epoch3": "The starting point of the route shown in the image is the town marked as 46189077, which corresponds to linz in the lower part of the image"
+    },
+    {
+      "image": "routemap_image134.jpg",
+      "User": "What major highway is near the starting point of the route in Wien?",
+      "MiniGPT-4-ce_epoch3": "The major highway near the starting point of the route in Wien is the A22 motorway, which is a north-south route in the Austria area"
+    },
+    {
+      "image": "routemap_image134.jpg",
+      "User": "Based on the route shown, which major body of water does the route pass near its end point?",
+      "MiniGPT-4-ce_epoch3": "Based on the route shown, the route passes near the atlanterhavet ocean"
+    }
+  ],
+  [
+    {
+      "image": "routemap_image200.jpg",
+      "User": "Where is the start and finish line located on this map?",
+      "MiniGPT-4-ce_epoch3": "The start and finish line are located at the top of the map, marked with red circles"
+    },
+    {
+      "image": "routemap_image200.jpg",
+      "User": "What landmarks can be found near the number 5 on the route?",
+      "MiniGPT-4-ce_epoch3": "Near the number 5 on the route, some of the landmarks that can be found are the River Cam, a canal that runs through Cambridge and connects to the river Great Ouse, St John's College, a constituent college of the University of Cambridge , Midsummer Common, a large public green space in central"
+    },
+    {
+      "image": "routemap_image200.jpg",
+      "User": "If a participant starts at the start line and follows the route, which major landmarks will they pass before reaching the 9km mark?",
+      "MiniGPT-4-ce_epoch3": "1 km mark 1 km 2 km mark 3 km mark 4 km mark 5 km mark 6 km mark 7 km mark 8 km mark 9 km mark"
+    }
+  ],
+  [
+    {
+      "image": "gantt_image93.jpg",
+      "User": "What is the start date of Task #1 in Project #1?",
+      "MiniGPT-4-ce_epoch3": "30 June 2016 is the start date of Task #1 in Project #1"
+    },
+    {
+      "image": "gantt_image93.jpg",
+      "User": "How many days are allocated for the Revision task, and when does it start?",
+      "MiniGPT-4-ce_epoch3": "6 days are allocated for the Revision task, and it starts on day 20"
+    },
+    {
+      "image": "gantt_image93.jpg",
+      "User": "Considering the dependencies shown by the arrows, which task cannot start until another task is completed, and what are those tasks?",
+      "MiniGPT-4-ce_epoch3": "task 4 cannot start until task 2 is completed task 15 cannot start until task 8 is completed"
+    }
+  ],
+  [
+    {
+      "image": "gantt_image37.jpg",
+      "User": "What is the status of the 'Summary Task 3' in the Basic Project?",
+      "MiniGPT-4-ce_epoch3": "The status of the 'Summary Task 3' in the Basic Project is completed"
+    },
+    {
+      "image": "gantt_image37.jpg",
+      "User": "What is the duration of the 'Interiors' task in the Office Setup section, and what is its current status?",
+      "MiniGPT-4-ce_epoch3": "1. From the image, it appears that 'Sponsorship' has a target date of 4/10 and has completed its primary task, 'Identify Potential Sponsors'. However, it still has outstanding tasks, including 'Send Proposal', 'Confirm Sponsorship', and 'Coordinate Logistics'. These tasks suggest that the team is making progress with the sponsorship effort, but there are still some outstanding responsibilities to complete before the event. 2. This information, in combination with the overall schedule, implies that the 'Sponsorship' task remains critical to the success of the project, and that any delays or difficulties in completing this task could impact the project timeline and overall event planning."
+    }
+  ],
+  [
+    {
+      "image": "gantt_image98.jpg",
+      "User": "How many days are allocated for 'Finalize Script' in the pre-production phase?",
+      "MiniGPT-4-ce_epoch3": "4 days are allocated for 'Finalize Script' in the pre-production phase"
+    },
+    {
+      "image": "gantt_image98.jpg",
+      "User": "What is the sequence of tasks in the pre-production phase according to the Gantt chart?",
+      "MiniGPT-4-ce_epoch3": "1) Developing storyboards 2) Selecting cast 3) Location scouting 4) Conducting interviews 5) Hiring art director 6) Selecting music 7) Conducting music consultation 8 ) Developing storyboards 9) Script writing 10) Pre-production meeting 11) Filming 12) Post production"
+    },
+    {
+      "image": "gantt_image98.jpg",
+      "User": "Based on the dependencies shown in the Gantt chart, which task must be completed before 'Casting' can begin, and how does this impact the project timeline?",
+      "MiniGPT-4-ce_epoch3": "'Staffing' must be completed before 'Casting' can begin, according to the dependencies shown in the Gantt chart 'Staffing' is marked as dependent on 'Planning', and 'Casting' is marked as dependent on 'Staffing'. this means that 'Staffing' must be completed before 'Casting' can begin"
+    }
+  ],
+  [
+    {
+      "image": "gantt_image146.jpg",
+      "User": "How many weeks are planned for the \"Research & Analysis\" phase?",
+      "MiniGPT-4-ce_epoch3": "4 weeks are planned for the \"Research & Analysis\" phase"
+    },
+    {
+      "image": "gantt_image146.jpg",
+      "User": "Which phase directly follows \"Digitize layout\" and how long is it scheduled to last?",
+      "MiniGPT-4-ce_epoch3": "1The phase directly following \"Digitize layout\" is \"Produce image.\""
+    },
+    {
+      "image": "gantt_image146.jpg",
+      "User": "Can you identify any potential overlap in tasks and explain how this might affect the project timeline?",
+      "MiniGPT-4-ce_epoch3": "Yes, there is potential overlap in tasks for the project timeline. Task 5 and task 7 both relate to website design, which may overlap with each other, particularly if the design elements are not fully complete before task 11 starts on web hosting. This overlap may impact the overall timeline, potentially resulting in a delay in completing some tasks or rushing others to ensure that they can be finished on time. It's important to carefully review the tasks and dependencies within the project to identify potential overlap and adjust timelines accordingly to ensure a successful project outcome."
+    }
+  ],
+  [
+    {
+      "image": "gantt_image140.jpg",
+      "User": "What does the yellow bar represent in the Gantt chart?",
+      "MiniGPT-4-ce_epoch3": "The yellow bar represents the milestone named development and testing, which is a critical point in the project schedule as it signifies the end of development activities and the beginning of testing activities"
+    },
+    {
+      "image": "gantt_image140.jpg",
+      "User": "Which task is scheduled to start immediately after the \"Approve project proposal\" task?",
+      "MiniGPT-4-ce_epoch3": "The task that is scheduled to start immediately after the \"Approve project proposal\" task is \"Design and Plan\"."
+    },
+    {
+      "image": "gantt_image140.jpg",
+      "User": "Considering the dependencies shown by the red diamonds, which task cannot begin until \"Develop beta version\" is completed, and what is the impact on the schedule if \"Develop beta version\" is delayed?",
+      "MiniGPT-4-ce_epoch3": "if \"Develop beta version\" is delayed, the task that cannot begin until it is completed is \"Test\". since \"Test\" depends on \"Develop beta version\", if the latter is delayed, the former will be affected, and as a result, the schedule would experience an impact the tasks \"Testing\" after \"Develop beta version\" would have to be delayed, which would affect the completion date of the project and potentially increase the time required for testing"
+    }
+  ],
+  [
+    {
+      "image": "gantt_image124.jpg",
+      "User": "What is the first task listed in the Gantt chart?",
+      "MiniGPT-4-ce_epoch3": "The first task listed in the Gantt chart is project initiation"
+    },
+    {
+      "image": "gantt_image124.jpg",
+      "User": "Which task follows immediately after \"Define release\"?",
+      "MiniGPT-4-ce_epoch3": "The task \"Define the product backlog\" follows immediately after \"Define release\"."
+    },
+    {
+      "image": "gantt_image124.jpg",
+      "User": "Can you identify any dependencies between tasks and explain how they might affect the project timeline?",
+      "MiniGPT-4-ce_epoch3": "1509 is dependent on 1206, as it mentions the requirement for a sample document to be generated. This means that the project timeline may be affected if the sample document is delayed or not generated on time, as this could impact the completion of 1206 and the timeline of subsequent tasks. Additionally, if 1207 depends on 1206, it might also be impacted by delays or changes in the sample document's creation and delivery date."
+    }
+  ],
+  [
+    {
+      "image": "gantt_image160.jpg",
+      "User": "How many tasks are scheduled to start on the first Monday of Week 1?",
+      "MiniGPT-4-ce_epoch3": "5 tasks are scheduled to start on the first Monday of Week 1, and they are numbered from 1 to 5"
+    },
+    {
+      "image": "gantt_image160.jpg",
+      "User": "Which task is scheduled to be completed by the end of the first week?",
+      "MiniGPT-4-ce_epoch3": "1"
+    },
+    {
+      "image": "gantt_image160.jpg",
+      "User": "Based on the Gantt chart, can we infer any dependencies between tasks, and if so, which tasks are dependent on the completion of others?",
+      "MiniGPT-4-ce_epoch3": "1. Task B depends on the completion of task A, as indicated by the arrows pointing from task A to task B task C depends on the completion of both tasks B and D, as indicated by the arrows pointing from task B to task C and from task D to task C"
+    }
+  ],
+  [
+    {
+      "image": "gantt_image107.jpg",
+      "User": "What is the duration of the \"Initial Release\" task?",
+      "MiniGPT-4-ce_epoch3": "30 days"
+    },
+    {
+      "image": "gantt_image107.jpg",
+      "User": "Which task is scheduled to start immediately after the \"Initial Portal available\" task is completed?",
+      "MiniGPT-4-ce_epoch3": "The task that is scheduled to start immediately after the \"Initial Portal available\" task is \"Add Web Server Configuration.\""
+    },
+    {
+      "image": "gantt_image107.jpg",
+      "User": "Considering the dependencies shown, which task's delay would impact the start of the \"Data Analysis\" task, and what is the earliest week \"Data Analysis\" can begin?",
+      "MiniGPT-4-ce_epoch3": "1. The delay between the \"Dashboard\" and \"Data Analysis\" tasks is impacting the start of the \"Data Analysis\" task, which means that it cannot start earlier than week 8.2. The delay between the \"Revenue Forecast\" and \"Data Analysis\" tasks is impacting the start of the \"Data Analysis\" task, which means that it cannot start earlier than week 9."
+    }
+  ],
+  [
+    {
+      "image": "gantt_image11.jpg",
+      "User": "What is the duration of the \"Design\" task as shown on the Gantt chart?",
+      "MiniGPT-4-ce_epoch3": "the \"Design\" task has a duration of 31 days, starting from 2021-05-01 and ending on 2021-06-24"
+    },
+    {
+      "image": "gantt_image11.jpg",
+      "User": "Which task appears to be a prerequisite for the start of \"Feature 2\" development?",
+      "MiniGPT-4-ce_epoch3": "Task 3 is shown as a prerequisite for the start of \"Feature 2\" development"
+    },
+    {
+      "image": "gantt_image11.jpg",
+      "User": "Based on the dependencies shown in the Gantt chart, what is the sequence of development tasks, and how do they impact the project timeline?",
+      "MiniGPT-4-ce_epoch3": "1 the project starts on january 1 and ends on february 28 the sequence of development tasks is as follows"
+    }
+  ],
+  [
+    {
+      "image": "gantt_image13.jpg",
+      "User": "What does the blue bar represent in the Gantt chart?",
+      "MiniGPT-4-ce_epoch3": "The blue bar represents the duration for the tasks labeled as job offer accepted"
+    },
+    {
+      "image": "gantt_image13.jpg",
+      "User": "Which task is scheduled to start immediately after the \"Study Market\" task?",
+      "MiniGPT-4-ce_epoch3": "06/07/2019 06/13/2019"
+    },
+    {
+      "image": "gantt_image13.jpg",
+      "User": "Can you identify a task that has slack time and explain the significance of the slack time in relation to the project schedule?",
+      "MiniGPT-4-ce_epoch3": "yes, the task at 14/16 with a slack time of 3 days has a slack time"
+    }
+  ],
+  [
+    {
+      "image": "flow_image136.jpg",
+      "User": "What is the first step in this flowchart?",
+      "MiniGPT-4-ce_epoch3": "The first step in the flowchart is represented by the node named decision, which has two options, yes and no"
+    },
+    {
+      "image": "flow_image136.jpg",
+      "User": "If \"Decision 1\" is \"No,\" what is the next decision point the process moves to?",
+      "MiniGPT-4-ce_epoch3": "If \"Decision 1\" is \"No,\" then the process would move to \"Decision 2.\""
+    },
+    {
+      "image": "flow_image136.jpg",
+      "User": "Can you describe a scenario where the process would end at \"Step 5\"?",
+      "MiniGPT-4-ce_epoch3": "sure, consider the following scenario a company is evaluating several products for potential purchase one of those products is marked as the top choice by the decision maker once that product is identified, the process continues with step 5 this could happen if the decision maker decides that they want to proceed with purchasing the"
+    }
+  ],
+  [
+    {
+      "image": "flow_image236.jpg",
+      "User": "How can customers book a taxi according to this chart?",
+      "MiniGPT-4-ce_epoch3": "Customers can book a taxi according to the following steps in this flowchart they first start by entering their location and destination, which is shown on the left side of the screen as input fields then, after submitting the location and destination, the map will display"
+    },
+    {
+      "image": "flow_image236.jpg",
+      "User": "What is the role of the operator in this workflow?",
+      "MiniGPT-4-ce_epoch3": "1"
+    }
+  ],
+  [
+    {
+      "image": "flow_image123.jpg",
+      "User": "What initial values are assigned to alpha and U(1) at the start of the flowchart?",
+      "MiniGPT-4-ce_epoch3": "at the start of the flowchart, alpha = -0.1 and U(1) = -0.5"
+    },
+    {
+      "image": "flow_image123.jpg",
+      "User": "What operation is performed on U(k) in the flowchart?",
+      "MiniGPT-4-ce_epoch3": "1: Add 2 2 U(k) = U(k) + 2 2 Addition is the operation that is performed on U(k)."
+    },
+    {
+      "image": "flow_image123.jpg",
+      "User": "Explain the loop condition and its purpose within the flowchart.",
+      "MiniGPT-4-ce_epoch3": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+    }
+  ],
+  [
+    {
+      "image": "flow_image124.jpg",
+      "User": "What is the first step in the Problem Solving Flow Chart?",
+      "MiniGPT-4-ce_epoch3": "The first step in the Problem Solving Flow Chart is to look for keywords"
+    },
+    {
+      "image": "flow_image124.jpg",
+      "User": "After understanding the problem, what is the next step according to the flow chart?",
+      "MiniGPT-4-ce_epoch3": "1"
+    },
+    {
+      "image": "flow_image124.jpg",
+      "User": "How does the flow chart suggest verifying the accuracy of the solution, and what might be an example of using the inverse to check your work?",
+      "MiniGPT-4-ce_epoch3": "The flow chart suggests verifying the accuracy of the solution by checking that the answer is reasonable and sensible, as well as checking the units of measure to make sure that they are consistent with what is expected"
+    }
+  ],
+  [
+    {
+      "image": "flow_image139.jpg",
+      "User": "What is the first action to take according to this flowchart after the \"Previous consensus\"?",
+      "MiniGPT-4-ce_epoch3": "If the previous consensus is approved, the first action taken is to submit the work order"
+    },
+    {
+      "image": "flow_image139.jpg",
+      "User": "If someone disagrees with the changes made after an edit, what does the flowchart suggest should happen next?",
+      "MiniGPT-4-ce_epoch3": "If someone disagrees with the changes made after an edit, the flowchart suggests that they can mark the text as undesirable or unsuitable for the project the flowchart indicates that if the reviewer marked the text as desirable, the text can move to the next"
+    },
+    {
+      "image": "flow_image139.jpg",
+      "User": "According to the flowchart, under what condition is a \"New consensus\" reached, and what are the steps leading up to it?",
+      "MiniGPT-4-ce_epoch3": "1. After receiving a request for change, the consensus protocol proceeds through four steps, as labeled in the flowchart"
+    }
+  ],
+  [
+    {
+      "image": "flow_image118.jpg",
+      "User": "What is the first step in the Project Management Process Flow Chart?",
+      "MiniGPT-4-ce_epoch3": "The first step in the project management process flow chart is Planning Project Management"
+    },
+    {
+      "image": "flow_image118.jpg",
+      "User": "After creating project documentation, what is the next step in the flowchart?",
+      "MiniGPT-4-ce_epoch3": "The next step in the flowchart after creating project documentation is to create the release plan"
+    },
+    {
+      "image": "flow_image118.jpg",
+      "User": "How does the flowchart depict the relationship between monitoring project status and project documentation?",
+      "MiniGPT-4-ce_epoch3": "the flowchart shows that monitoring project status is an input to project documentation, where it can be recorded, reviewed, and updated as needed the flowchart also depicts that feedback from stakeholders may result in changes to project status and documentation, further emphasizing the iterative nature of the project management process"
+    }
+  ],
+  [
+    {
+      "image": "flow_image121.jpg",
+      "User": "What is the starting point of this flowchart?",
+      "MiniGPT-4-ce_epoch3": "The starting point of this flowchart is to take the frozen pizza"
+    },
+    {
+      "image": "flow_image121.jpg",
+      "User": "If someone knows what they want to eat and have all the ingredients handy, what is the next question they should consider according to the flowchart?",
+      "MiniGPT-4-ce_epoch3": "5 steps in sequence"
+    },
+    {
+      "image": "flow_image121.jpg",
+      "User": "According to the flowchart, under what circumstances should one opt for a frozen pizza or take-out?",
+      "MiniGPT-4-ce_epoch3": "1st step, does one have time to prepare a pizza? if no, then take-out or frozen is the choice, no prep no mess, and a frozen or take-out pizza can save time on prep or ingredients"
+    }
+  ],
+  [
+    {
+      "image": "flow_image242.jpg",
+      "User": "What is the first step in the Project Management Process Flow Chart?",
+      "MiniGPT-4-ce_epoch3": "1"
+    },
+    {
+      "image": "flow_image242.jpg",
+      "User": "In the flow chart, what are the three components monitored under \"Monitor Project Status\"?",
+      "MiniGPT-4-ce_epoch3": "1. Deliverables: This is the first component monitored under \"Monitor Project Status\"."
+    },
+    {
+      "image": "flow_image242.jpg",
+      "User": "How does the flow chart suggest handling adjustments to the project and what is the subsequent step after adjustments are made?",
+      "MiniGPT-4-ce_epoch3": "the flow chart suggests handling adjustments to the project after adjustments are made, the process moves to the task update section and the previous step, if any, is discontinued and then progresses to the update schedule for the specific task"
+    }
+  ],
+  [
+    {
+      "image": "flow_image129.jpg",
+      "User": "What is the first step in the planning scheme for constructing a synthetic object according to the flowchart?",
+      "MiniGPT-4-ce_epoch3": "The first step in the planning scheme for constructing a synthetic object according to the flowchart is to establish a general procedure"
+    },
+    {
+      "image": "flow_image129.jpg",
+      "User": "According to the flowchart, what should be done after defining and entering facets and vertices?",
+      "MiniGPT-4-ce_epoch3": "2. Entering the Facets and Vertices"
+    },
+    {
+      "image": "flow_image129.jpg",
+      "User": "If the original figure is found to have incorrect facets after input, what is the subsequent process, and how does it loop back into the main flow?",
+      "MiniGPT-4-ce_epoch3": "If the original figure is found to have incorrect facets after input, it is passed back to the main flow. this happens through the 'Figure Facet' node that links it back to the beginning of the process, allowing for it to be rescored and potentially re-processed"
+    }
+  ],
+  [
+    {
+      "image": "flow_image174.jpg",
+      "User": "How many steps are shown in each process flow diagram?",
+      "MiniGPT-4-ce_epoch3": "The first diagram has two steps, the second diagram has four steps, and the third diagram has five steps"
+    },
+    {
+      "image": "flow_image174.jpg",
+      "User": "What do the different colors in the process flow diagrams signify?",
+      "MiniGPT-4-ce_epoch3": "The different colors in the process flow diagrams indicate the level of emphasis or priority for each step"
+    },
+    {
+      "image": "flow_image174.jpg",
+      "User": "How could the design of these process flow diagrams be improved to provide more detailed information?",
+      "MiniGPT-4-ce_epoch3": "1. Add more labels: For the first step, the label 'start' could be added to indicate that the flow begins with this step. Additionally, 'end' labels could be added to indicate the end of each step to provide a clearer picture of the sequence of events"
+    }
+  ],
+  [
+    {
+      "image": "mindmap_image106.jpg",
+      "User": "What is the central concept of this mind map?",
+      "MiniGPT-4-ce_epoch3": "The central concept of this mind map is wissenschaft für alle, which can be translated to science for all"
+    },
+    {
+      "image": "mindmap_image106.jpg",
+      "User": "What are two of the \"TOEPASSINGSMOGELIJKHEDEN\" (application possibilities) of a mind map listed in the image?",
+      "MiniGPT-4-ce_epoch3": "1. Organisatieplan (Organization plan) and 2. Samenvatting voor presentatie (Summary for presentation)."
+    },
+    {
+      "image": "mindmap_image106.jpg",
+      "User": "How does the mind map suggest that making a mind map supports memory according to the \"MEERWAARDE\" (added value) branch?",
+      "MiniGPT-4-ce_epoch3": "1. Mnemonic devices: creating mind maps can help to generate and retain mnemonic devices that aid in memory recall, as indicated by the branch leading from \"MEERWAARDE\" (added value) to the \"MNEMONICEN\" (mnemonic) category"
+    }
+  ],
+  [
+    {
+      "image": "mindmap_image117.jpg",
+      "User": "What are the two attributes of lines mentioned under the \"LINES\" branch in the mind map?",
+      "MiniGPT-4-ce_epoch3": "under the \"LINES\" branch, there is a list of two attributes, which are as follows shape, and direction"
+    },
+    {
+      "image": "mindmap_image117.jpg",
+      "User": "According to the mind map, what is recommended for the size of words and how does it relate to emphasis?",
+      "MiniGPT-4-ce_epoch3": "1) The recommended size of words is to use smaller ones with emphasis"
+    }
+  ],
+  [
+    {
+      "image": "mindmap_image77.jpg",
+      "User": "What is the main topic of this mind map?",
+      "MiniGPT-4-ce_epoch3": "The main topic of this mind map is a personality and activity-based teacher work plan"
+    },
+    {
+      "image": "mindmap_image77.jpg",
+      "User": "What is the goal of the Physical Activity Sample Plan according to the mind map?",
+      "MiniGPT-4-ce_epoch3": "The goal of the Physical Activity Sample Plan according to the mind map is to help individuals achieve physical activity targets"
+    },
+    {
+      "image": "mindmap_image77.jpg",
+      "User": "How does the mind map suggest involving the community and what role do partners play in this plan?",
+      "MiniGPT-4-ce_epoch3": "1. Community involvement and support can be shown by the use of community resources, such as schools and libraries 2. Partners can play a role in developing and implementing the plan, such as sharing their expertise and providing funding"
+    }
+  ],
+  [
+    {
+      "image": "mindmap_image125.jpg",
+      "User": "Who is responsible for the 'Home page' design according to the mind map?",
+      "MiniGPT-4-ce_epoch3": "1. Persona 1 is responsible for the 'Home page' design according to the mind map"
+    },
+    {
+      "image": "mindmap_image125.jpg",
+      "User": "What content is planned to be included in the 'Side panel' of the website?",
+      "MiniGPT-4-ce_epoch3": "1"
+    }
+  ],
+  [
+    {
+      "image": "mindmap_image78.jpg",
+      "User": "What is the main color of the branch labeled \"KLEUREN\"?",
+      "MiniGPT-4-ce_epoch3": "The main color of the branch labeled \"KLEUREN\" is red"
+    },
+    {
+      "image": "mindmap_image78.jpg",
+      "User": "On the mind map, which branch suggests using a minimum of three colors?",
+      "MiniGPT-4-ce_epoch3": "1. The central branch represents the main focus of the mind map, which is to develop a new product."
+    }
+  ],
+  [
+    {
+      "image": "mindmap_image22.jpg",
+      "User": "What color is the branch labeled \"TAKKEN\" in the mind map?",
+      "MiniGPT-4-ce_epoch3": "The branch labeled \"TAKKEN\" in the mind map appears to be blue"
+    },
+    {
+      "image": "mindmap_image22.jpg",
+      "User": "What are the two subtopics connected to the \"PLAATJES\" branch?",
+      "MiniGPT-4-ce_epoch3": "the two subtopics connected to the \"PLAATJES\" branch are nederlandse beroepingen, which means dutch occupations , and andere beroepingen, which means other occupations"
+    },
+    {
+      "image": "mindmap_image22.jpg",
+      "User": "According to the mind map, what are some of the characteristics that should be considered when creating a mind map, as indicated by the main branches?",
+      "MiniGPT-4-ce_epoch3": "1. Topic or central idea that you want to explore or focus on"
+    }
+  ],
+  [
+    {
+      "image": "mindmap_image143.jpg",
+      "User": "What is the central theme of the mindmap?",
+      "MiniGPT-4-ce_epoch3": "4b"
+    },
+    {
+      "image": "mindmap_image143.jpg",
+      "User": "What are the three methodologies linked to the central theme?",
+      "MiniGPT-4-ce_epoch3": "1) the four steps described as process, product, people, plan"
+    },
+    {
+      "image": "mindmap_image143.jpg",
+      "User": "How does the concept of \"Minimum Viable Product\" relate to the \"Lean Start-up\" methodology, and what might be the significance of this approach in product development?",
+      "MiniGPT-4-ce_epoch3": "​"
+    }
+  ],
+  [
+    {
+      "image": "mindmap_image7.jpg",
+      "User": "What is directly connected to the \"Mindmapping\" node at the top right?",
+      "MiniGPT-4-ce_epoch3": "1. Mindmaping Tools"
+    },
+    {
+      "image": "mindmap_image7.jpg",
+      "User": "Which node connected to \"Mindmapping\" suggests that there might be different methods or styles of mind mapping?",
+      "MiniGPT-4-ce_epoch3": "1) What does a node with the name Mindmapping suggest?"
+    },
+    {
+      "image": "mindmap_image7.jpg",
+      "User": "Based on the mindmap, how might the \"Process\" of mind mapping relate to its \"Uses,\" and can you infer a possible benefit of this relationship?",
+      "MiniGPT-4-ce_epoch3": "1. Process: The process of mind mapping can relate to its uses in a number of ways, including through the generation and organization of ideas. For example, a mind map can help an individual organize their thoughts and ideas around a particular topic or concept, which can facilitate the writing of a report, essay, or other written document. Additionally, the mind map can be used to identify missing information and areas for further exploration, which can lead to more detailed or refined ideas."
+    }
+  ],
+  [
+    {
+      "image": "mindmap_image90.jpg",
+      "User": "What is the central idea represented in this mind map?",
+      "MiniGPT-4-ce_epoch3": "The central idea represented in this mind map is the concept of creating a mind map"
+    },
+    {
+      "image": "mindmap_image90.jpg",
+      "User": "How many main branches are there extending from the central idea?",
+      "MiniGPT-4-ce_epoch3": "3 main branches extend from the central idea in this mind map, as shown in the image"
+    },
+    {
+      "image": "mindmap_image90.jpg",
+      "User": "Based on the structure of this mind map, how can it be utilized for a brainstorming session?",
+      "MiniGPT-4-ce_epoch3": "​The structure of this mind map can be utilized for a brainstorming session by asking the participants to use the ideas depicted on the map as starting points to generate new and more creative ideas. For example, the central idea could be the problem the team is trying to solve, and each of the branching ideas could represent potential solutions to that problem. The team can then expand on these ideas, combine them in new ways, and explore other related concepts to find the best solution"
+    }
+  ],
+  [
+    {
+      "image": "mindmap_image26.jpg",
+      "User": "What are the three activities listed under the \"Write\" node in the mind map?",
+      "MiniGPT-4-ce_epoch3": "1. Write and revise a story/article 2. Write a song or lyrics 3. Write an email, letter, or text message"
+    }
+  ],
+  [
+    {
+      "image": "mindmap_image0.jpg",
+      "User": "What is the main topic of this mind map as indicated by the central node?",
+      "MiniGPT-4-ce_epoch3": "The central node indicates that the main topic is schulwesen or school system in German"
+    },
+    {
+      "image": "mindmap_image0.jpg",
+      "User": "According to the mind map, what are the minimum number of colors recommended to use?",
+      "MiniGPT-4-ce_epoch3": "The minimum number of colors recommended to use is three"
+    },
+    {
+      "image": "mindmap_image0.jpg",
+      "User": "Can you explain the relationship between the \"PLAATJES\" node and the concepts connected to it?",
+      "MiniGPT-4-ce_epoch3": "🍅 PLAATJES is connected to the concepts of 'GROENTEN' and 'KOENEN' in a horizontal line, indicating that they are separate entities that can exist independently of one another but may also be linked together by a common factor or relationship, such as preparing vegetables for cooking, which would involve making sure that the"
+    }
+  ],
+  [
+    {
+      "image": "知识图谱_image951.jpg",
+      "User": "请问这张图片的主题是什么？",
+      "MiniGPT-4-ce_epoch3": "这张图片的主题是关于乙云医药检查平台。"
+    },
+    {
+      "image": "知识图谱_image951.jpg",
+      "User": "请问这张图片的主题是什么？",
+      "MiniGPT-4-ce_epoch3": "这张图片的主题是关于一篇演讲信，“美欧乌惯不带头发”。"
+    },
+    {
+      "image": "知识图谱_image951.jpg",
+      "User": "根据这张图，哪些因素与“体化”这一概念相关联？",
+      "MiniGPT-4-ce_epoch3": "这张图显示了“体化”这一概念的相关因素。以下是一些关于“体化”因素的例子："
+    },
+    {
+      "image": "知识图谱_image951.jpg",
+      "User": "如果想要通过调整生活方式来降低患癌症的风险，根据图中的信息，我们应该采取哪些具体措施，以及这些措施是如何通过不同的生活方面相互联系的？",
+      "MiniGPT-4-ce_epoch3": "根据图中的信息，我们应该采取以下措施来降低患癌症的风险："
+    },
+    {
+      "image": "知识图谱_image951.jpg",
+      "User": "如果真人想要购买现实艺人的虚拟演唱会门票，需要通过哪些节点如何实现？",
+      "MiniGPT-4-ce_epoch3": "需要通过以下节点实现："
+    }
+  ],
+  [
+    {
+      "image": "知识图谱_image3109.jpg",
+      "User": "在这张图片中，谁是Scrooge McDuck的侄子？",
+      "MiniGPT-4-ce_epoch3": "在这张图片中，谁是Scrooge McDuck的侄子？"
+    },
+    {
+      "image": "知识图谱_image3109.jpg",
+      "User": "在这张图片中，SCROOGE MCDONALD的舅舅是谁？",
+      "MiniGPT-4-ce_epoch3": "在图片中，谁是 Scrooge McDuck的舅舅？谁似乎与他联系紧密？这个图片描述了许多人物之间的关系，不是只有一个唯一的维度或解释。因为这是一张虚构的图案，它可能被设计成是虚构的，或是是根据人物属性或情节来创造的，而不是描述真实世界所知道的人物或事物。"
+    },
+    {
+      "image": "知识图谱_image3109.jpg",
+      "User": "图中显示了哪两个角色是一对情侣？",
+      "MiniGPT-4-ce_epoch3": "图中显示的是杰克苏葟和小红，他们在其中之间连接起来。"
+    },
+    {
+      "image": "知识图谱_image3109.jpg",
+      "User": "根据这张图，Magic De Spell和Scrooge McDuck之间的关系是什么？",
+      "MiniGPT-4-ce_epoch3": "根据这张图，Magic De Spell与Scrooge McDuck之间的关系是相互联系。他们之间的关系形成了一个连接图，从上面的背景开始，Magic De Spell和Scrooge McDuck之间的路径连接在一起。"
+    },
+    {
+      "image": "知识图谱_image3109.jpg",
+      "User": "在这张图片中，SCROOGE MCDONALD有直接关联的是谁？",
+      "MiniGPT-4-ce_epoch3": "在这张图片中，SCROOGE MCDONALD直接关联的是小马鹏，他们的线条紧密，而其他关联的人则从他们的线条出发。"
+    }
+  ],
+  [
+    {
+      "image": "知识图谱_image199.jpg",
+      "User": "这张图中的\"精选\"是什么类型的节点？",
+      "MiniGPT-4-ce_epoch3": "这张图中的“精选”是一个“节点”。"
+    },
+    {
+      "image": "知识图谱_image199.jpg",
+      "User": "这张图中有几个主要的节点？",
+      "MiniGPT-4-ce_epoch3": "这张图中有几个主要的节点？"
+    },
+    {
+      "image": "知识图谱_image199.jpg",
+      "User": "在这张图中，\"精选\"和\"套餐\"之间的关系是什么？",
+      "MiniGPT-4-ce_epoch3": "在这张图中，\"精选\"和\"套餐\"之间的关系是联系。他们之间有一条直接的边。"
+    },
+    {
+      "image": "知识图谱_image199.jpg",
+      "User": "请解释这张知识图谱中\"精选\"、\"套餐\"和\"成本\"之间的关系链条。",
+      "MiniGPT-4-ce_epoch3": "这张知识图谱中的关系链条可以用以下步骤进行解释："
+    },
+    {
+      "image": "知识图谱_image199.jpg",
+      "User": "这张图中的主要节点升水与那些节点相连，并且他们用标有什么字的箭头相连？",
+      "MiniGPT-4-ce_epoch3": "在图中，升水的标有“上”方向箭头连接的节点是“淡化”，而它的下方向箭头则连接到了另一个主要节点“水”。"
+    }
+  ],
+  [
+    {
+      "image": "知识图谱_image401.jpg",
+      "User": "图中的中心主题是什么？",
+      "MiniGPT-4-ce_epoch3": "图中的中心主题是互动。"
+    },
+    {
+      "image": "知识图谱_image401.jpg",
+      "User": "图中的中心主题是什么？",
+      "MiniGPT-4-ce_epoch3": "图中的中心主题是“什么是流程优化工具？”"
+    },
+    {
+      "image": "知识图谱_image401.jpg",
+      "User": "在图中，“曲线工具”与哪个功能直接相关联？",
+      "MiniGPT-4-ce_epoch3": "在图中，“曲线工具”直接相关联“曲线形状设计，曲线控制、曲线旋转、曲线缩放、曲线角度轮转、曲线剪裁、曲线加工”。"
+    },
+    {
+      "image": "知识图谱_image401.jpg",
+      "User": "图中提到了哪些Photoshop工具或功能，它们如何与“曲线工具”关联？",
+      "MiniGPT-4-ce_epoch3": "图中提到了几个Photoshop工具或功能：文字、画笔、填充、图形模板，它们与“曲线工具”没有直接的关联。然而，这些工具和功能可能会用于创建曲线图形的基础或者为曲线图形添加元素。例如，一个简单的曲线图形可以使用画笔或填充工具来创建基本的颜色和图案效果，然后在轻轻的方式加入更复杂的纹理或细节用图形模板功能。"
+    },
+    {
+      "image": "知识图谱_image401.jpg",
+      "User": "图中提到了哪些与曲线[Photoshop工具、微分几何学]相关联的信息？",
+      "MiniGPT-4-ce_epoch3": "图中提到了两个与曲线相关联的信息，分别是：《拓展图形》，这是关于微分几何学的书籍；以及 ‘圣心图像’，这是关于图像处理和绘图技术的图片。"
+    }
+  ],
+  [
+    {
+      "image": "知识图谱_image2815.jpg",
+      "User": "这张图表示的是什么类型的结构？",
+      "MiniGPT-4-ce_epoch3": "这张图表示的是一个简化的流程图，用于展示一个人或组织的工作流程或任务进程。"
+    },
+    {
+      "image": "知识图谱_image2815.jpg",
+      "User": "这张图是属于一张什么类型的图？",
+      "MiniGPT-4-ce_epoch3": "这张图属于一个知识图谱的结构图。"
+    },
+    {
+      "image": "知识图谱_image2815.jpg",
+      "User": "在这张图中，“自主性”是通过哪些下一级概念来进一步细分的？",
+      "MiniGPT-4-ce_epoch3": "在图中，“自主性”直接被细分为“自主性”。这意味着这个概念本身就是一个第一级概念，没有下一级概念可以细分它。"
+    },
+    {
+      "image": "知识图谱_image2815.jpg",
+      "User": "请根据图中的层次结构，解释“可塑性”与“张量计算”之间的关系。",
+      "MiniGPT-4-ce_epoch3": "图中的可塑性与张量计算之间的关系是有关联系的。可塑性指示物体是否易凝聚、容易从一种状态转移到另一种状态，而张量计算则是基于点云的三维坐标值进行的数值积分方法，能表示物体的形状及其变化。具体地说，可塑性涉及在张量计算中如何代入元件变化，以保证模型的合理性。"
+    },
+    {
+      "image": "知识图谱_image2815.jpg",
+      "User": "按照图片中显示，请描述一下张三链子（清末老夫子）的人物关系，分析一下胡国华（金点先生）与张三链子（清末老夫子）可能是什么关系？",
+      "MiniGPT-4-ce_epoch3": "根据图片中显示的关系，我们可以确定胡国华（金点先生）与张三链子（清末老夫子）之间是有恋人关系的。他们可能是在渐近走之后，结为一对恋人。"
+    }
+  ],
+  [
+    {
+      "image": "知识图谱_image439.jpg",
+      "User": "这张图表示的是什么类型的信息？",
+      "MiniGPT-4-ce_epoch3": "这张图表示的是关于某种“声音”类型的知识图。每个箭头都表示与“声音”相关的人或物品，例如“歌唱器”、“大胑”、“鸣唱”、“咖啡店”、“声音响应”、“口鼻组”、“旋卡乐”等。"
+    },
+    {
+      "image": "知识图谱_image439.jpg",
+      "User": "在这张知识图谱中，“尼克松”与“1972年6月”有什么关系？",
+      "MiniGPT-4-ce_epoch3": "在这张知识图谱中，“尼克松”与“1972年6月”关联一起。"
+    },
+    {
+      "image": "知识图谱_image439.jpg",
+      "User": "根据这张图，如何解释“水门事件”与“尼克松”以及“辞职”之间的关系？",
+      "MiniGPT-4-ce_epoch3": "这张图中，“水门事件”与“尼克松”以及“辞职”之间的关系是一种连接关系。这意味着“尼克松”可能是“水门事件”中的某个角色或者另一个人物，并且“辞职”也可能是“尼克松”中的一种事件或场景。从图中可以看出，“尼克松”与“水门事件”都有线条连接，同时“尼克松”与“辞职”也有线条连接。这些线条表明“尼克松”与“水门事件”和“辞职”有关联性，这可能意味着“尼克松”与“水门事件”或者“尼克松”与“辞职”的关系是直接或间接的。"
+    }
+  ],
+  [
+    {
+      "image": "知识图谱_image3534.jpg",
+      "User": "在这张图中，谁是王元姬的父亲？",
+      "MiniGPT-4-ce_epoch3": "在这张图中，王元姬的父亲是王世强。"
+    },
+    {
+      "image": "知识图谱_image3534.jpg",
+      "User": "根据这张图，王元姬和孙权的关系是什么？",
+      "MiniGPT-4-ce_epoch3": "根据图像，王元姬和孙权有亲密的关系，他们可能是夫妻或者朋友。这种关系可能带着激情的色彩，因为孙权作为君子之风，可能与王元姬发生了一段优越的关系。"
+    },
+    {
+      "image": "知识图谱_image3534.jpg",
+      "User": "这张图展示了什么类型的信息，并且这些信息之间有什么样的关联？",
+      "MiniGPT-4-ce_epoch3": "这张图展示了一个中国古代派系团曲图，其中纳其疆人和蜭王是主角。他们之间有三个直接关联："
+    }
+  ],
+  [
+    {
+      "image": "知识图谱_image290.jpg",
+      "User": "图中的中心节点表示什么？",
+      "MiniGPT-4-ce_epoch3": "图中的中心节点表示“搜索结果”。"
+    },
+    {
+      "image": "知识图谱_image290.jpg",
+      "User": "在这张知识图谱中，“大米”与哪些节点直接相连？",
+      "MiniGPT-4-ce_epoch3": "根据图谱，我可以看到“大米”与以下节点直接相连："
+    },
+    {
+      "image": "知识图谱_image290.jpg",
+      "User": "请解释这张知识图谱中的节点和边所代表的关系，并给出一个可能的应用场景。",
+      "MiniGPT-4-ce_epoch3": "这张知识图谱中的节点和边代表的关系是，根据名称和类型进行建立的。下面是每个节点的解释："
+    }
+  ],
+  [
+    {
+      "image": "思维导图_image3348.jpg",
+      "User": "在这张图中，“编程”是属于哪个更大的分类？",
+      "MiniGPT-4-ce_epoch3": "在这张图中，“编程”属于“解决问题（救助）”分类。"
+    },
+    {
+      "image": "思维导图_image3348.jpg",
+      "User": "在这张图中，与“胡笑伟”直接相连的是哪个节点？",
+      "MiniGPT-4-ce_epoch3": "在这张图中，与“胡笑伟”直接相连的是节点“渤源”。"
+    },
+    {
+      "image": "思维导图_image3348.jpg",
+      "User": "根据这张图，请问“数据库”和“前端开发”有什么直接的关系？",
+      "MiniGPT-4-ce_epoch3": "根据这张图，“数据库”和“前端开发”之间伴有直接的关系。从最上面的“用户参与”分支下向下，“数据库”跟“前端开发”连接在一起。此外，从“数据库”出发的“后端开发”分支下向左，还可以看到一条从“数据库”出发的线条连接到“前端开发”位点。"
+    },
+    {
+      "image": "思维导图_image3348.jpg",
+      "User": "如果我想了解整个“《自学XML系列》课程设计”中涉及的技术范畴，请问有哪些主要的分类和它们之间的关联？",
+      "MiniGPT-4-ce_epoch3": "在《自学XML系列》课程设计中，主要的技术范畴包括以下方向："
+    },
+    {
+      "image": "思维导图_image3348.jpg",
+      "User": "根据这张图，市长直接或间接管理的下级部门人物都有哪些。",
+      "MiniGPT-4-ce_epoch3": "根据这张图，市长直接或间接管理的下级部门人物包括以下人物："
+    }
+  ],
+  [
+    {
+      "image": "思维导图_image3675.jpg",
+      "User": "图中的中心人物与其他人物有什么关系？",
+      "MiniGPT-4-ce_epoch3": "图中的中心人物是“鸣子”，其亲友有“黄蓉”、“孙俊”、“王豪淮”、“顾俊”、“邱鹏”和“赵颖”。此外，还有“高云”和“黄茉”是他们的弟弟。"
+    },
+    {
+      "image": "思维导图_image3675.jpg",
+      "User": "根据图中的信息，哪两个角色是情侣关系？",
+      "MiniGPT-4-ce_epoch3": "根据图中的信息，猜测到两个角色可能是情侣关系。那就是卡拉泽·朵里亚和韦伯·丝菲卡。"
+    },
+    {
+      "image": "思维导图_image3675.jpg",
+      "User": "在这个关系图中，可以找到哪些不同类型的人际关系，并请列举出每种关系对应的角色。",
+      "MiniGPT-4-ce_epoch3": "从这个关系图中可以看出，人物“A”、“B”和“C”具有相互联系的人际关系。"
+    }
+  ],
+  [
+    {
+      "image": "思维导图_image2971.jpg",
+      "User": "在图谱的上半部分，哪个节点代表“主题活动”？",
+      "MiniGPT-4-ce_epoch3": "在图谱的上半部分，节点“主题活动”可以归结为“远足活动”。"
+    },
+    {
+      "image": "思维导图_image2971.jpg",
+      "User": "在图谱的下半部分，哪个节点是“主题活动”直接关联的父节点？",
+      "MiniGPT-4-ce_epoch3": "很抱歉，我的回答应该是“主题活动”是“主题”的子节点，而不是直接关联父节点。因此，所有的节点都属于“主题”节点。"
+    },
+    {
+      "image": "思维导图_image2971.jpg",
+      "User": "根据图谱，试解释“活动”节点是如何通过一系列关系连接到“主题活动”的。",
+      "MiniGPT-4-ce_epoch3": "根据图谱，“活动”节点是从“父孙子”节点输入的节点。“父孙子”节点为“各种主题”，其中包含三个祖先节点“活动1”、“活动2”和“活动3”，每个祖先节点也产生了两个子节点“活动4”和“活动5”。此时“活动4”与“活动2”产生一个子节点“主题活动1”，同时“活动5”与“活动1”产生一个子节点“主题活动2”。因此，“活动”节点既可以通过“父孙子”节点接收输入，同时也可以受到“主题活动”节点的输出。这种循环的结构使得“活动”节点可以与多个节点有不同程度的关系，从而实现了更加复杂的概念之间的关联。"
+    }
+  ],
+  [
+    {
+      "image": "思维导图_image2827.jpg",
+      "User": "图中“信息传播”节点直接连接了哪些节点？",
+      "MiniGPT-4-ce_epoch3": "图中“信息传播”节点直接连接了“网络终端”节点和“广告展示”节点。"
+    },
+    {
+      "image": "思维导图_image2827.jpg",
+      "User": "图中中心节点是什么？",
+      "MiniGPT-4-ce_epoch3": "图中的中心节点是“横彩课程产品推广”。"
+    },
+    {
+      "image": "思维导图_image2827.jpg",
+      "User": "在图中，哪个节点是“技术发明”直接传播信息的来源？",
+      "MiniGPT-4-ce_epoch3": "在图中，“技术发明”节点是直接传播信息的来源。"
+    },
+    {
+      "image": "思维导图_image2827.jpg",
+      "User": "根据图中的关系，如果需要提高“技术推广”的效果，应该考虑哪些直接和间接因素？",
+      "MiniGPT-4-ce_epoch3": "直接因素："
+    },
+    {
+      "image": "思维导图_image2827.jpg",
+      "User": "请描述一下“哈姆雷特”的家庭关系？",
+      "MiniGPT-4-ce_epoch3": "我了解你要问“哈姆雷特”的家庭关系是什么。根据这个人物图，哈姆雷特是一个男性角色，他有两个女性伴侣，这两个女性分别是“金博尔”和“维克斯”。哈姆雷特与“金博尔”并没有直接的衔接条，但他们之间有一些她们可能与其他人交往或相互参与的场景。而哈姆雷特与“维克斯”之间则有一个直接的衔接条，即哈姆雷特带着“维克斯”在一起。最后，哈姆雷特还有一个可能的恋人或者恋意感受，那就是“雷艾尔”。"
+    }
+  ],
+  [
+    {
+      "image": "思维导图_image429.jpg",
+      "User": "图中的\"module\"是什么关系指向\"函数\"的？",
+      "MiniGPT-4-ce_epoch3": "在图中，\"module\"是指向 \"函数\" 的关系。具体来说，\"module\" 是一个数据模块，\"函数\" 则是属于这个数据模块的数据表。"
+    },
+    {
+      "image": "思维导图_image429.jpg",
+      "User": "图中的\"模数化\"的外文名是什么？",
+      "MiniGPT-4-ce_epoch3": "图中的\"模数化\"的外文名是“伪数变换”。"
+    },
+    {
+      "image": "思维导图_image429.jpg",
+      "User": "在这张知识图谱中，\"函数\"与\"专业术语\"之间的联系是什么？",
+      "MiniGPT-4-ce_epoch3": "在这张知识图谱中，“函数”与“专业术语”之间是一对“泛型隐却窗口”的方向。"
+    },
+    {
+      "image": "思维导图_image429.jpg",
+      "User": "根据图中的信息，如何解释\"module\"、\"函数\"和\"专业术语\"之间的关系？",
+      "MiniGPT-4-ce_epoch3": "根据图中的信息，可以解释“module”，“函数”和“专业术语”之间的关系。"
+    },
+    {
+      "image": "思维导图_image429.jpg",
+      "User": "根据图中的信息，有关模数化的有哪些信息？",
+      "MiniGPT-4-ce_epoch3": "根据图中的信息，可以知道有关模数化的许多信息 包括："
+    }
+  ],
+  [
+    {
+      "image": "思维导图_image3524.jpg",
+      "User": "图中显示的是什么类型的结构？",
+      "MiniGPT-4-ce_epoch3": "这是一个树形结构图，其中圆形节点代表数据的维度，三角形节点代表关系的类型，而直线节点代表两圆形节点之间的关系。"
+    },
+    {
+      "image": "思维导图_image3524.jpg",
+      "User": "根据这张图，\"智障\"是由哪两个词组合而成的？",
+      "MiniGPT-4-ce_epoch3": "根据这张图，\"智障\"是由“智”和“障”两个词组合而成的。“智”为“智商”，“障”为“障礙”。"
+    },
+    {
+      "image": "思维导图_image3524.jpg",
+      "User": "在这张人物关系图中，\"智能障碍\"与其他节点相比，它在整个结构中扮演什么角色？",
+      "MiniGPT-4-ce_epoch3": "智能障碍在这张人物关系图中与其他节点相比，扮演的角色有： 是个体（个人）、子集群组别(群组)、集群组别（群组）和抽象集群组别(群组)。"
+    }
+  ],
+  [
+    {
+      "image": "思维导图_image3059.jpg",
+      "User": "图中标注的“人物关系”是什么类型的关系？",
+      "MiniGPT-4-ce_epoch3": "图中标注的“人物关系”是两种类型的关系：一是“姐弟关系”，二是“亲爱关系”。"
+    },
+    {
+      "image": "思维导图_image3059.jpg",
+      "User": "图中有多少个人物节点？",
+      "MiniGPT-4-ce_epoch3": "图中有六个人物节点。"
+    },
+    {
+      "image": "思维导图_image3059.jpg",
+      "User": "在这张图中，“嫉妒”和“喜欢”之间有什么样的关系？",
+      "MiniGPT-4-ce_epoch3": "在这张图中，“嫉妒”和“喜欢”之间是一种情感关系。这种情感关系可以表示“嫉妒”对“喜欢”有兴趣的态度，也可能表示“喜欢”对“嫉妒”产生好感的态度。"
+    },
+    {
+      "image": "思维导图_image3059.jpg",
+      "User": "请解释图中“喜欢”、“嫉妒”和“恨”之间的关系，并根据这些关系推测可能发生的情感变化。",
+      "MiniGPT-4-ce_epoch3": "根据图中的划分，可以推测出其中的“喜欢”是一种积极性的情感，而“嫉妒”和“恨”都是形容阴恶、不满或无礼的情感。"
+    },
+    {
+      "image": "思维导图_image3059.jpg",
+      "User": "根据图片用绿色和黄色的箭头连接的有哪些？",
+      "MiniGPT-4-ce_epoch3": "根据图片，我们可以得出以下的箭头连接："
+    }
+  ],
+  [
+    {
+      "image": "思维导图_image3199.jpg",
+      "User": "图中心节点表示的是什么概念？",
+      "MiniGPT-4-ce_epoch3": "图中心节点表示的是“翻译”概念"
+    },
+    {
+      "image": "思维导图_image3199.jpg",
+      "User": "图中心节点表示的是什么？",
+      "MiniGPT-4-ce_epoch3": "图中心节点表示的是“苏格兰足球队”"
+    },
+    {
+      "image": "思维导图_image3199.jpg",
+      "User": "根据图中的节点，哪些因素直接影响开发人员的效率？",
+      "MiniGPT-4-ce_epoch3": "根据图中的节点，以下是对开发人员效率直接影响的因素："
+    },
+    {
+      "image": "思维导图_image3199.jpg",
+      "User": "图中是否有某个因素同时受到两个或两个以上其他因素的影响？如果有，请说明是哪个因素及其受影响的来源。",
+      "MiniGPT-4-ce_epoch3": "图中是否有某个因素同时受到两个或两个以上其他因素的影响，如果存在的那个因素是\"疾病风险\"，它同时受到了两个其他因素的影响，分别是\"饮食习惯\"和\"身体活动水平\"。"
+    },
+    {
+      "image": "思维导图_image3199.jpg",
+      "User": "图中与中心节点有主雇关系，主仆关系的具体是哪些。",
+      "MiniGPT-4-ce_epoch3": "图中与中心节点有主雇关系，主仆关系的具体是“事业机构”。"
+    }
+  ],
+  [
+    {
+      "image": "思维导图_image3739.jpg",
+      "User": "图中有几个人物被连接起来了？",
+      "MiniGPT-4-ce_epoch3": "图中有四个人物被连接起来，这四个人物都是女性。"
+    },
+    {
+      "image": "思维导图_image3739.jpg",
+      "User": "在这张图中，哪两个人物之间的关系是通过“合作”这一节点连接的？",
+      "MiniGPT-4-ce_epoch3": "从图中可以看出，有四个人物的节点与“合作”节点连接在一起，其中三个人物之间的关系是通过“合作”节点连接的。"
+    },
+    {
+      "image": "思维导图_image3739.jpg",
+      "User": "请根据图中的信息，推断“周迅”和“黄渤”之间可能存在什么样的关系？",
+      "MiniGPT-4-ce_epoch3": "根据图中的信息，“周迅”和“黄渤”之间可能存在同性恋关系。图中“周迅”与四个人相连，其中包括一个女性，她的关系被“周迅”标记为“男友”，而另外三个人都被标记为“亲爱者”，这说明“周迅”与这些人关系很接近，可能是他们在一起生活或者有共同的事情。而黄渤则标记为“朋友”，与周迅相连不到。总体来说，这个图展示了周迅与黄渤之间的关系。"
+    }
+  ],
+  [
+    {
+      "image": "思维导图_image2738.jpg",
+      "User": "在这张图中，哪个角色与“盖聂”有师徒关系？",
+      "MiniGPT-4-ce_epoch3": "在这张图中，“盖聂”与凯莫和郭伟有师徒关系。"
+    },
+    {
+      "image": "思维导图_image2738.jpg",
+      "User": "根据这张图，哪两个角色之间存在复杂的三角关系？",
+      "MiniGPT-4-ce_epoch3": "根据图，明显可以看出三角关系：见识的人与愿与谤，也就是三角关系。"
+    },
+    {
+      "image": "思维导图_image2738.jpg",
+      "User": "请描述“盖聂”在这个关系图中的位置和他与其他角色的关联性。",
+      "MiniGPT-4-ce_epoch3": "在这个关系图中，“盖聂”位于图的中央，并与多个角色有密切的关联。在左边的那个角色，有一个男性角色的头像，可能是其他人的主角或者相关角色；旁邊的女性角色可能是其他人的女主角或者其他与主角之间有相关关系的角色。"
+    }
+  ],
+  [
+    {
+      "image": "路线图_image2195.jpg",
+      "User": "请问这是什么类型的图像？",
+      "MiniGPT-4-ce_epoch3": "这是一个交通地图。"
+    },
+    {
+      "image": "路线图_image2195.jpg",
+      "User": "在这张图中，哪两个地铁站之间有换乘通道？",
+      "MiniGPT-4-ce_epoch3": "在这张图中，左上边的某两个地铁站之间有换乘通道。"
+    },
+    {
+      "image": "路线图_image2195.jpg",
+      "User": "假设我现在在黄村火车站，我想要到达草桥站，但我需要在经过的每一个换乘站都停留，我应该如何规划我的路线，并且列出我会停留的所有换乘站？",
+      "MiniGPT-4-ce_epoch3": "根据这个图，我们可以看到从黄村火车站，我需要通过三个换乘站，分别是黄村火车站，青城宁波站和橘子站。"
+    }
+  ],
+  [
+    {
+      "image": "路线图_image2095.jpg",
+      "User": "在这张图片的左上角有一个指南针，请问它指向的北方在图片的哪个方向？",
+      "MiniGPT-4-ce_epoch3": "在这张图片中，指南针的北方指向图片中右上角的位置。"
+    },
+    {
+      "image": "路线图_image2095.jpg",
+      "User": "请问从图中的“星城”到“苗垭古道”需要经过几个红色的节点？",
+      "MiniGPT-4-ce_epoch3": "从图中的“星城”到“苗垭古道”需要经过三个红色的节点。这是一条沿线游览的路线，每个节点都有附近的景点或景区。"
+    },
+    {
+      "image": "路线图_image2095.jpg",
+      "User": "假设每个红色节点之间的距离相等，从“星城”出发，经过“苗垭古道”再到“土司城”，最后回到“星城”，请问这个路线总共经过了多少个红色节点，并且这个路线是否形成了一个闭环？",
+      "MiniGPT-4-ce_epoch3": "这个路线从“星城”出发，经过“苗垭古道”再到“土司城”，再回到“星城”，因此总共经过了四个红色节点。由于距离不同，这个路线形成了一个无图形的闭环。"
+    }
+  ],
+  [
+    {
+      "image": "路线图_image2073.jpg",
+      "User": "图中显示的S222是什么？",
+      "MiniGPT-4-ce_epoch3": "图中显示的S222位于附近，相较于S246却偏远。根据图中显示的筛选条，可能是该位置的游客住宿地点或者商业产物点。"
+    },
+    {
+      "image": "路线图_image2073.jpg",
+      "User": "从图中可以看出，要从大山脚去往哪里需要经过一个收费站？",
+      "MiniGPT-4-ce_epoch3": "从图中可以看出需要从大山脚的路段经过两个收费站。"
+    },
+    {
+      "image": "路线图_image2073.jpg",
+      "User": "如果我现在位于大山脚，并且想要前往福地村，但是我需要避开收费站，我应该如何规划我的路线？",
+      "MiniGPT-4-ce_epoch3": "你可以避开收费站，从大山脚出发前往福地村，通过大山山路去到达福地村。从那里，你可以选择再走一条小路或者直接继续在大山山路上走去到达福地村。"
+    }
+  ],
+  [
+    {
+      "image": "路线图_image1930.jpg",
+      "User": "请问图中有多少座桥？",
+      "MiniGPT-4-ce_epoch3": "图中有多少座桥是不一样的，根据它自己的规则，图中有2座桥。"
+    },
+    {
+      "image": "路线图_image1930.jpg",
+      "User": "在图中可以看到一座塔和一座摩天大楼，请问这两座建筑物之间有没有直接连接的道路？",
+      "MiniGPT-4-ce_epoch3": "是的，这两座建筑物之间有直接连接的道路。在图中，可以看到一条橡胶道，上面有“观景线路”文字，这条道在塔和摩天大楼之间经过，两座建筑物之间就是通过该橡胶道。"
+    },
+    {
+      "image": "路线图_image1930.jpg",
+      "User": "如果我从图中的体育场出发，想要前往对面的圆顶建筑物，沿途我会经过哪些主要地标，并且我需要经过多少个路口才能到达目的地？",
+      "MiniGPT-4-ce_epoch3": "从图中的体育场出发，想要前往对面的圆顶建筑物，沿途经过主要地标如下："
+    }
+  ],
+  [
+    {
+      "image": "路线图_image2275.jpg",
+      "User": "请问图中红色线路连接的两个地点是哪里？",
+      "MiniGPT-4-ce_epoch3": "图中红色线路连接的两个地点是它们两端的“大足口”。"
+    },
+    {
+      "image": "路线图_image2275.jpg",
+      "User": "根据图片，从铁路北站到达中央车站需要途径哪些站点？",
+      "MiniGPT-4-ce_epoch3": "根据图片，从铁路北站到达中央车站需要通过渠道“B”和“E”。"
+    },
+    {
+      "image": "路线图_image2275.jpg",
+      "User": "如果一名旅客在郊区车站上车，并且他需要前往位于中央车站和铁路北站之间的山区车站，他需要经过哪些步骤，并且在这个过程中，他将会看到哪些海拔高度标记？",
+      "MiniGPT-4-ce_epoch3": "如果一名旅客在郊区车站上车，并且他需要前往位于中央车站和铁路北站之间的山区车站，他需要经过以下步骤："
+    }
+  ],
+  [
+    {
+      "image": "路线图_image2026.jpg",
+      "User": "请问图中指北方向的标志在哪里？",
+      "MiniGPT-4-ce_epoch3": "图中的指北方向的标志在地图的左下角。"
+    },
+    {
+      "image": "路线图_image2026.jpg",
+      "User": "图中有哪些交通路线可以识别？",
+      "MiniGPT-4-ce_epoch3": "图中的一些交通路线可以识别，包括："
+    },
+    {
+      "image": "路线图_image2026.jpg",
+      "User": "假设我现在位于图中的E11E地点，我想前往G9H地点参观，请问我应该如何规划我的路线，并且沿途我能看到哪些建筑物？",
+      "MiniGPT-4-ce_epoch3": "假设你现在位于图中的E11E地点，想前往G9H地点参观，根据图中的路线和建筑物，以下是一个可能的行程规划："
+    }
+  ],
+  [
+    {
+      "image": "路线图_image2268.jpg",
+      "User": "请问图中标记为“北”方向的箭头指向哪个方向？",
+      "MiniGPT-4-ce_epoch3": "图中标记为“北”方向的箭头指向绿色碗边。"
+    },
+    {
+      "image": "路线图_image2268.jpg",
+      "User": "在图中，哪两条道路交汇于带有红色星星的位置，并且这个位置位于哪条河流的旁边？",
+      "MiniGPT-4-ce_epoch3": "这条红色拐条的道路是“天南高速公路”，与湖南监督区城市两边隔开，在其中有四条道路交汇，这一条道路上是“见证线路”。"
+    },
+    {
+      "image": "路线图_image2268.jpg",
+      "User": "如果我从图中标有“东关”字样的位置出发，沿着G206向东行驶，我将会遇到几个带有红色星星的交汇点，并且在到达“农业园区”之前，我会经过哪些地方？",
+      "MiniGPT-4-ce_epoch3": "在沿着G206向东行驶的情况下，你会经过以下交汇点："
+    }
+  ],
+  [
+    {
+      "image": "路线图_image2189.jpg",
+      "User": "在这张图片中，P1代表什么？",
+      "MiniGPT-4-ce_epoch3": "在这张图片中，P1代表环山路的起点。"
+    },
+    {
+      "image": "路线图_image2189.jpg",
+      "User": "从停车场（P1）到达索道的起点，需要经过哪些景点？",
+      "MiniGPT-4-ce_epoch3": "从停车场（P1）到达索道的起点，需要经过景点A。"
+    },
+    {
+      "image": "路线图_image2189.jpg",
+      "User": "如果一个游客想要从停车场（P1）开始，先参观游客中心，然后前往三宝殿，接着乘坐索道到达山顶，最后沿着步道走到观音殿，他应该如何规划路线，并且在返回时避免重复经过游客中心？",
+      "MiniGPT-4-ce_epoch3": "规划路线："
+    }
+  ],
+  [
+    {
+      "image": "路线图_image323.jpg",
+      "User": "这张图是表示什么类型的信息？",
+      "MiniGPT-4-ce_epoch3": "这张图显示了一道仅可浏览的路径，在其中，颜色表示不同的地点，“追踪”标记留下追踪点，“杭带路”表示通过其中通过的路带。"
+    },
+    {
+      "image": "路线图_image323.jpg",
+      "User": "从图中可以看出，旅行者在第三天早上9点将在哪个位置？",
+      "MiniGPT-4-ce_epoch3": "从图中可以看出，旅行者在第三天早上9点将在卡狄克山峰的西陵部位置。"
+    },
+    {
+      "image": "路线图_image323.jpg",
+      "User": "如果一个旅行者想从“丹霞村”出发，沿着这条路线走到“古冰川”，请问他们需要经过哪些主要的节点？",
+      "MiniGPT-4-ce_epoch3": "根据图示，如果一个旅行者想从丹霞村出发，沿着这条路线走到古冰川，他需要经过七个主要的节点。它们从头部开始向下顺序如下："
+    }
+  ],
+  [
+    {
+      "image": "路线图_image232.jpg",
+      "User": "请问这张图中标记的红色圆圈代表什么？",
+      "MiniGPT-4-ce_epoch3": "这张图中的红色圆圈代表示路线。"
+    },
+    {
+      "image": "路线图_image232.jpg",
+      "User": "从图中可以看出，有两条主要的道路被标记了出来，它们分别是什么名字？",
+      "MiniGPT-4-ce_epoch3": "从图中可以看出，路上上方有一条主要的道路被标记为“农家小路”（农家小路），下方的主要道路被标记为“易识路”（易识路）。"
+    },
+    {
+      "image": "路线图_image232.jpg",
+      "User": "假设我现在位于图中的“大西山水库”位置，我想沿着最短的路线前往“潘庄”，请问我应该如何行驶？",
+      "MiniGPT-4-ce_epoch3": "如果你现在位于图中的“大西山水库”位置，要前往“潘庄”，需要驾驶一般道路前方，即从“大西山水库”到“铜鼓子”，然后绕过“乌镇”就可以到达“潘庄”。"
+    }
+  ],
+  [
+    {
+      "image": "甘特图_image5.jpg",
+      "User": "图表的标题是什么？",
+      "MiniGPT-4-ce_epoch3": "图表的标题是“工作周期”"
+    },
+    {
+      "image": "甘特图_image5.jpg",
+      "User": "图中一共有几个计划？",
+      "MiniGPT-4-ce_epoch3": "图中有6个计划。"
+    },
+    {
+      "image": "甘特图_image5.jpg",
+      "User": "图中持续最久的任务是什么？",
+      "MiniGPT-4-ce_epoch3": "图中持续最久的任务是时间段26月-30月。"
+    },
+    {
+      "image": "甘特图_image5.jpg",
+      "User": "旅行3次的任务，目前已经完成了几次？",
+      "MiniGPT-4-ce_epoch3": "旅行3次的任务目前已经完成了6次。"
+    },
+    {
+      "image": "甘特图_image5.jpg",
+      "User": "这项甘特图可能用于场景是什么？",
+      "MiniGPT-4-ce_epoch3": "根据甘特图的列表，可能是从“2016年”到“2019年”，描述了在这段时间内，某人它们与其他人交谈过甘特，并且有一些事件发生。"
+    }
+  ],
+  [
+    {
+      "image": "甘特图_image4.jpg",
+      "User": "图表的标题是什么？",
+      "MiniGPT-4-ce_epoch3": "图表的标题是“挑选联名品牌与投放行业数据报告”。"
+    },
+    {
+      "image": "甘特图_image4.jpg",
+      "User": "图中第一个任务是什么？",
+      "MiniGPT-4-ce_epoch3": "图中第一个任务是“制定建模方案”。"
+    },
+    {
+      "image": "甘特图_image4.jpg",
+      "User": "图中持续最久的任务是什么？",
+      "MiniGPT-4-ce_epoch3": "图中持续最久的任务是 珥琅1月03日-04月05日。"
+    },
+    {
+      "image": "甘特图_image4.jpg",
+      "User": "图中效果确认的具体措施和地点是什么？",
+      "MiniGPT-4-ce_epoch3": "图中效果确认的具体措施和地点包括下表所列的什么？  可以从下表中得到信息。"
+    },
+    {
+      "image": "甘特图_image4.jpg",
+      "User": "这项甘特图可能用于场景是什么？",
+      "MiniGPT-4-ce_epoch3": "这项甘特图可能用于描述电影、电视节目、电视系列或电视动画的制作时间表。这些情境需要将导师、编剧、执导和主演等人物放置在不同的日期上，以确定他们相互的任务和活动，这个可视化的工作流程可以用这张图来展示。"
+    }
+  ],
+  [
+    {
+      "image": "甘特图_image1.jpg",
+      "User": "这是一张什么类型的图表？",
+      "MiniGPT-4-ce_epoch3": "这是一张图表。"
+    },
+    {
+      "image": "甘特图_image1.jpg",
+      "User": "图中一共有多少个阶段？",
+      "MiniGPT-4-ce_epoch3": "图中有5个阶段，依序从最年轻一到最年贤楼炉二。"
+    },
+    {
+      "image": "甘特图_image1.jpg",
+      "User": "立项后的下一个待办任务是什么？",
+      "MiniGPT-4-ce_epoch3": "立项后的下一个待办任务是“钢铁虚假成本防止窗口维修建设及其对住房物业销售”。"
+    },
+    {
+      "image": "甘特图_image1.jpg",
+      "User": "图中持续最久的任务是什么？",
+      "MiniGPT-4-ce_epoch3": "图中持续最久的任务是“研究和开发软件远程服务平台”。"
+    },
+    {
+      "image": "甘特图_image1.jpg",
+      "User": "2018.2时有多少个任务正在进行中？",
+      "MiniGPT-4-ce_epoch3": "在图中，有2个任务正在进行中。"
+    }
+  ],
+  [
+    {
+      "image": "甘特图_image3.jpg",
+      "User": "图表的标题是什么？",
+      "MiniGPT-4-ce_epoch3": "图表的标题是“详细商品构建报告1”。"
+    },
+    {
+      "image": "甘特图_image3.jpg",
+      "User": "图中第一个任务是什么？",
+      "MiniGPT-4-ce_epoch3": "图中第一个任务的名称是“上网产品”。"
+    },
+    {
+      "image": "甘特图_image3.jpg",
+      "User": "图中持续最久的任务是什么？",
+      "MiniGPT-4-ce_epoch3": "图中持续最久的任务是“落时工程顺序”。"
+    },
+    {
+      "image": "甘特图_image3.jpg",
+      "User": "开发的下一个待办任务是什么？",
+      "MiniGPT-4-ce_epoch3": "开发的下一个待办任务是卡片系统渲染。"
+    },
+    {
+      "image": "甘特图_image3.jpg",
+      "User": "如果分析任务延时一个月，会与哪些任务重叠？",
+      "MiniGPT-4-ce_epoch3": "如果分析任务延时一个月，可能会与各种任务重叠。这取决于每个任务的优先级和相关性。例如，在整理库存与完成订单分析任务时，可能会与“整理工作流程”重叠，因为“整理库存”是“整理工作流程”的一部分。然而，如果两个任务之间没有明显的直接联系，比如完成销售账号与规划订单分析任务，则这两个任务可能并不会重叠。"
+    }
+  ],
+  [
+    {
+      "image": "甘特图_image2.jpg",
+      "User": "图表的标题是什么？",
+      "MiniGPT-4-ce_epoch3": "这是您指的图表的标题？"
+    },
+    {
+      "image": "甘特图_image2.jpg",
+      "User": "图中第一个任务是什么？",
+      "MiniGPT-4-ce_epoch3": "图中第一个任务是“上午09:15-10:45”，它是一个工作任务。"
+    },
+    {
+      "image": "甘特图_image2.jpg",
+      "User": "图中持续最久的任务是什么？",
+      "MiniGPT-4-ce_epoch3": "图中持续最久的任务是“2月6日-7日 建造起居 完成”。"
+    },
+    {
+      "image": "甘特图_image2.jpg",
+      "User": "软件设计的下一个待办任务是什么？",
+      "MiniGPT-4-ce_epoch3": "软件设计的下一个待办任务是 软件测试。"
+    },
+    {
+      "image": "甘特图_image2.jpg",
+      "User": "第五周有多少个任务正在进行中？",
+      "MiniGPT-4-ce_epoch3": "第五周有11个任务正在进行中。"
+    }
+  ],
+  [
+    {
+      "image": "流程图_image3251.jpg",
+      "User": "中子星是由什么组成的？",
+      "MiniGPT-4-ce_epoch3": "中子星是由三维空间、大自然、人類组成的。"
+    },
+    {
+      "image": "流程图_image3251.jpg",
+      "User": "图中中心节点是什么？",
+      "MiniGPT-4-ce_epoch3": "图中中心节点是“服务部门”。"
+    },
+    {
+      "image": "流程图_image3251.jpg",
+      "User": "在图中，哪两个概念直接连接到了“中子星”？",
+      "MiniGPT-4-ce_epoch3": "从图中可以看到，“中子星”与两个概念直接连接：“干物”和“矿渣”。"
+    },
+    {
+      "image": "流程图_image3251.jpg",
+      "User": "根据图中的信息，如果一个天体具有极高的密度和强大的磁场，它可能是什么？并且这样的天体在宇宙中有什么特殊的现象或者与其他天体有什么不同的相互作用？",
+      "MiniGPT-4-ce_epoch3": "根据图中的信息，如果一个天体具有极高的密度和强大的磁场，那么它可能是一个紫外圈状态（pink ring state）的“中性星珊”。这种天体会对周围的环境产生重大影响，比如形成黑洞，划破物质等。同时，它也会与其他天体发生特殊的相互作用，比如在甘肖茫萝暖系中离心分解、转化热量等。"
+    },
+    {
+      "image": "流程图_image3251.jpg",
+      "User": "电子图纸是由哪几个节点组成？",
+      "MiniGPT-4-ce_epoch3": "电子图纸是由很多节点组成的，这是一个基于主题关系的图聚类整理，其中有关节点是“图书馆”、“数字图纸”和“信息安全”。"
+    }
+  ],
+  [
+    {
+      "image": "流程图_image2851.jpg",
+      "User": "这幅图中的“就业”是指什么？",
+      "MiniGPT-4-ce_epoch3": "这幅图中的“就业”是指一个名为“医生报告“的对象。"
+    },
+    {
+      "image": "流程图_image2851.jpg",
+      "User": "这幅图中有几个蓝色节点？",
+      "MiniGPT-4-ce_epoch3": "这幅图中有三个蓝色节点，分别是：▔、▔、▔。"
+    },
+    {
+      "image": "流程图_image2851.jpg",
+      "User": "在这张图片中，“教育”与“就业”和“贫困”之间的关系是怎样的？",
+      "MiniGPT-4-ce_epoch3": "在这张图片中，“教育”与“就业”之间的关系是正面的。从图片中可以看出，“教育”与“就业”之间直接连接。如果从“教育”开始，可以看到“就业”的图像，从而说明“教育”对“就业”有影响或者关联。"
+    },
+    {
+      "image": "流程图_image2851.jpg",
+      "User": "根据这张图片，如何解释“教育”对“贫困”减少的间接影响，以及这种影响是如何通过“就业”这一中介变量实现的？",
+      "MiniGPT-4-ce_epoch3": "根据这张图片，“教育”对“贫困”减少的间接影响是通过“就业”中介变量实现的。从图片中可以看出，“就业”相连到了两个三边形形状，分别是“贫困”和“教育”，并在两个三边形之间穿插成分。"
+    },
+    {
+      "image": "流程图_image2851.jpg",
+      "User": "通过这幅图你可以了解到哪些信息？",
+      "MiniGPT-4-ce_epoch3": "通过这幅图可以了解到："
+    }
+  ],
+  [
+    {
+      "image": "流程图_image2805.jpg",
+      "User": "请问图中标注的“个人信息”是由哪两个部分组成的？",
+      "MiniGPT-4-ce_epoch3": "图中标注的“个人信息”是由“银行金融”和“零售”两个部分组成的。"
+    },
+    {
+      "image": "流程图_image2805.jpg",
+      "User": "请问图中接受信息接受的是哪些信息？",
+      "MiniGPT-4-ce_epoch3": "图中接受信息接受的是“个人身份证号”信息，“银行存款金额”信息，“借贷原因”信息，“还款期限”信息。"
+    },
+    {
+      "image": "流程图_image2805.jpg",
+      "User": "在图中，“基础信息”和“身份信息”分别与哪个概念直接连接，并且这两个概念有什么直接的关系？",
+      "MiniGPT-4-ce_epoch3": "在图中，“基础信息”与“身份信息”直接连接。这意味着“基础信息”是“身份信息”的原料或原材料。"
+    },
+    {
+      "image": "流程图_image2805.jpg",
+      "User": "如果我们想要详细了解一个人的信息，并且图中给出的结构是完整的，我们应该如何依次查询图中的结构以获取最全面的信息？请给出查询的顺序和理由。",
+      "MiniGPT-4-ce_epoch3": "如果我们想要详细了解一个人的信息，并且图中给出的结构是完整的，我们应该按照以下顺序查询图中的结构，以获取最全面的信息："
+    },
+    {
+      "image": "流程图_image2805.jpg",
+      "User": "如果想要了解一个学生的出勤信息，我们应该如何依次查询图中的结构以获取最全面的信息？",
+      "MiniGPT-4-ce_epoch3": "1. 首先需要查询图中的“学生”节点，以获取所有对应的图节点的属性。"
+    }
+  ],
+  [
+    {
+      "image": "流程图_image2886.jpg",
+      "User": "图中表示的是哪三个概念？",
+      "MiniGPT-4-ce_epoch3": "图中表示的是三个概念：企业人物，委任机构、地址。"
+    },
+    {
+      "image": "流程图_image2886.jpg",
+      "User": "根据图中的信息，内存泄漏和内存之间有什么关系？",
+      "MiniGPT-4-ce_epoch3": "根据图中的信息，内存泄漏和内存之间没有直接的关系。内存泄漏是指内存中的数据不再被保留在内存中，经过内存流失后成为系统无所能追回的状态。而内存则是一种可以随时存储数据的位置。"
+    },
+    {
+      "image": "流程图_image2886.jpg",
+      "User": "如果在一个程序中发现了内存泄漏的问题，那么应该如何通过对图中的概念进行分析来解决这个问题？",
+      "MiniGPT-4-ce_epoch3": "根据图中的分析，我们可以确认内存泄漏问题的原因可能与程序的实例关系。通过对程序中使用的类进行检查和解决方法，可以避免未经意识受到内存泄漏的情况，这样就能够提高程序的安全性。此外，我们还可以增加对其他关键结构和操作的分析和保障。"
+    }
+  ],
+  [
+    {
+      "image": "流程图_image2846.jpg",
+      "User": "在上面的图中，“源节点1”通过什么关系连接到“目标节点”？",
+      "MiniGPT-4-ce_epoch3": "根据图中的表格，“源节点1”通过关系“目标节点”的“源节点2”与“目标节点”连接。"
+    },
+    {
+      "image": "流程图_image2846.jpg",
+      "User": "在下面的图中，所有的“任务节点”是如何相互连接的？",
+      "MiniGPT-4-ce_epoch3": "检查到图中显示的任务节点相互连接的流程是："
+    },
+    {
+      "image": "流程图_image2846.jpg",
+      "User": "假设每个“任务节点”代表一个不同的学习任务，且“知识迁移”表示这些任务之间可以共享知识，“多任务学习”表示这些任务可以共同学习以提升彼此的性能。如果“任务1”已经学会了一个特定的技能，那么在下面的图中，这个技能如何通过图中的结构被迁移到“任务m-1”？",
+      "MiniGPT-4-ce_epoch3": "首先，我们假设任务节点的层次如下："
+    }
+  ],
+  [
+    {
+      "image": "流程图_image3295.jpg",
+      "User": "根据这张图片，新冠病毒的传播方式是什么？",
+      "MiniGPT-4-ce_epoch3": "根据这张图片，新冠病毒的传播方式是直接从人舔肩到患者或直接从患者到对象（车辆或拖牛），而不是经过医疗处方或家居处方。"
+    },
+    {
+      "image": "流程图_image3295.jpg",
+      "User": "如果一个人希望防止新冠病毒的传播并减少感染的风险，他们应该如何根据这张图片中的信息采取措施？",
+      "MiniGPT-4-ce_epoch3": "根据这张图片中的信息，如果一个人希望防止新冠病毒的传播并减少感染的风险，他们应该采取以下措施："
+    }
+  ],
+  [
+    {
+      "image": "流程图_image2823.jpg",
+      "User": "这张图片的主题是什么？",
+      "MiniGPT-4-ce_epoch3": "这张图片的主题是“关系图”。"
+    },
+    {
+      "image": "流程图_image2823.jpg",
+      "User": "在这张决策树中，根据哪个特征首先进行分支？",
+      "MiniGPT-4-ce_epoch3": "根据图中的提示，首先进行分支是“事件”。"
+    },
+    {
+      "image": "流程图_image2823.jpg",
+      "User": "假设我们有一个样本，其特征为“色泽=青绿，根蒂=蜷缩，敲声=浊响”，请问根据这张决策树，这个样本最终的分类结果是什么？",
+      "MiniGPT-4-ce_epoch3": "根据这张决策树，我们可以看到有两个分类结果：一是“色泽=青绿”，二是“根蒂=蜷缩，敲声=浊响”。"
+    }
+  ],
+  [
+    {
+      "image": "流程图_image1949.jpg",
+      "User": "图中标注的“输入设备”和哪个部件直接相关联？",
+      "MiniGPT-4-ce_epoch3": "输入设备（input equipment）与“输入机构”（input organizations）直接相关。"
+    },
+    {
+      "image": "流程图_image1949.jpg",
+      "User": "图中标注的“运行”和哪个节点直接相关联？",
+      "MiniGPT-4-ce_epoch3": "图中标注的“运行”与节点“出现时间”直接相关。"
+    },
+    {
+      "image": "流程图_image1949.jpg",
+      "User": "在这张图中，“控制器”起什么作用？",
+      "MiniGPT-4-ce_epoch3": "在这张图中，“控制器”起了“控制作用”的作用。控制作用是指一个对象，负责接收输入，实现输出控制。"
+    },
+    {
+      "image": "流程图_image1949.jpg",
+      "User": "如果用户通过输入设备输入了一个数据，这个数据会如何在这个系统中流动并最终显示在输出设备上？",
+      "MiniGPT-4-ce_epoch3": "如果用户通过输入设备输入了一个数据，这个数据会流动到系统中，经过一些处理过程（例如加工、处理、存储、过滤、标签）后，最终显示在输出设备上。这个过程中数据可能会受到许多不同的操作和过程，包括计算、分组、合并、去除等等。最终，输出设备会将结果视为输出，并将其发送给接收者，如页面或者应用程序等。"
+    },
+    {
+      "image": "流程图_image1949.jpg",
+      "User": "如果用户通过“新建”创建了一个进程，这个数据会如何在这个系统中流动并最终终止运行？",
+      "MiniGPT-4-ce_epoch3": "当用户通过“新建”创建进程时，该数据会被提交到操作系统的进程栈中。在这个过程中，该进程的相关信息（例如进程 ID）将被注册到进程对象中，并保存在操作系统的进程表中。"
+    }
+  ],
+  [
+    {
+      "image": "流程图_image2866.jpg",
+      "User": "这张图片的主题是关于什么的？",
+      "MiniGPT-4-ce_epoch3": "这张图片是关于互联网人才资源中的销售拓展管理（B2B）服务设计的，其中提到了拓展管理、销售服务、市场管理和营销管理等不同方面的内容。"
+    },
+    {
+      "image": "流程图_image2866.jpg",
+      "User": "根据这张图片，顾客满意度对顾客忠诚度有正面还是负面的影响？",
+      "MiniGPT-4-ce_epoch3": "根据这张图片，顾客满意度对顾客忠诚度有正面的影响。"
+    },
+    {
+      "image": "流程图_image2866.jpg",
+      "User": "如果一个企业想要提高顾客忠诚度，根据这张图片，他们应该如何考虑他们的投资和资源分配？",
+      "MiniGPT-4-ce_epoch3": "根据图片，要提高顾客忠诚度，企业应该投入更多的资金和精准调配投资来支持品牌和服务，同时也需要加强内部管理流程的建设。此外，还需要在市场营销方面注重传播力度，加强对客户的反馈，提高客户对企业的认可度。"
+    }
+  ]
+]
