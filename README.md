@@ -10,8 +10,9 @@ The paper has been accepted by the ACL 2024 main conference. This is the officia
 Graph-Understanding-Multimodal-Benchmark/
 ├── eval/
 │   ├── baseline_eval/      # Results of LLaVA, Minigpt4, Gemini and GPT-4V
-│   ├── llava_eval/         # Results of fine tuned LLaVA 
-│   └── mini_eval/          # Results of fine tuned Minigpt4
+│   ├── llava_eval/         # Results of finetuned LLaVA 
+│   ├── mini_eval/          # Results of finetuned Minigpt4
+│   └── eval.jsonl          # Evaluation instructions with groundtruth answers
 |
 ├── test/
 │   ├── test.jsonl         # All instructions used in test (both English and Chinese)
